@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 TECH STACK & TOOLKIT
+## 🧑‍💻 TECH STACK & TOOLKIT
 *Moving in series: My specialized engineering stack with identified logic tools.*
 
 <p align="center">
