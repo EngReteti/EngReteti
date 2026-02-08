@@ -63,13 +63,15 @@
 
 ---
 
-## 🤝 THE HEART: PIONEERING A TECH CULTURE
-- **🚀 Building the Blueprint:** I am documenting my software engineering journey openly to inspire a "Learning in Public" culture within my university circle.
-- **📖 Peer-to-Peer Logic:** I translate complex distributed systems concepts into accessible notes for my classmates to bridge the knowledge gap.
-- **🌱 Mentorship Initiative:** Providing direct guidance and technical roadmaps for young enthusiasts who are just beginning their logic-driven journey.
+## 🗺️ THE ENGINEERING ROADMAP
+*Documenting my technical evolution and knowledge-sharing initiatives.*
 
+- **🔭 Architectural Research:** Deep-diving into Distributed Systems to understand high-availability backend patterns.
+- **📝 Technical Documentation:** Curating structured roadmaps and logic-driven notes for junior peers navigating the CS curriculum.
+- **⚙️ Systems Mastery:** Actively refining my Java and SQL skills through real-world problem-solving and open-source contributions.
 
 ---
+
 
 ### 📫 CONNECT WITH THE ME
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amason-reteti" height="35" width="45" /></a>
