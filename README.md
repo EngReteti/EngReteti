@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Amason Lerionka Reteti
-### **Software Engineering Candidate @ The Co-operative University of Kenya** 🎓
+### **Computer Science Candidate at The Co-operative University of Kenya** 🎓
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+with+Logic;Leading+with+Empathy;Nurturing+Young+Tech+Enthusiasts;Junior+Software+Engineer;Thriving+in+Distributed+Systems)](https://git.io/typing-svg)
 
@@ -50,14 +50,15 @@
 
 ---
 
-## 🤝 THE HEART: COMMUNITY & MENTORSHIP
-- **🌱 Nurturing Enthusiasts:** Providing roadmaps for young tech guys starting their journey.
-- **🌍 Giving Back:** Actively participating in knowledge-sharing in the Nairobi tech ecosystem.
-- **💡 Critical Thinking:** Prioritizing clean code and ethical engineering in every project.
+## 🤝 THE HEART: PIONEERING A TECH CULTURE
+- **🚀 Building the Blueprint:** I am documenting my software engineering journey openly to inspire a "Learning in Public" culture within my university circle.
+- **📖 Peer-to-Peer Logic:** I translate complex distributed systems concepts into accessible notes for my classmates to bridge the knowledge gap.
+- **🌱 Mentorship Initiative:** Providing direct guidance and technical roadmaps for young enthusiasts who are just beginning their logic-driven journey.
+
 
 ---
 
-### 📫 CONNECT WITH THE NEXUS
+### 📫 CONNECT WITH THE ME
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amason-reteti" height="35" width="45" /></a>
 <a href="mailto:amasonlerionka@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="amasonlerionka" height="35" width="45" /></a>
 
