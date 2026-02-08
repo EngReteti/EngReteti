@@ -8,7 +8,7 @@
 ---
 
 ### 🧬 **THE ENGINEERING IDENTITY**
-"Architecting scalable backend solutions while nurturing the next generation of tech talent."
+Architecting scalable backend solutions while nurturing the next generation of tech talent.
 **Logic-Driven** • **Community-Focused** • **Java & SQL Specialist**
 
 ---
