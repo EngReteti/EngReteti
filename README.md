@@ -41,11 +41,10 @@
 ---
 
 ## 📊 ANALYTICS & THRIVENESS
-*Real-time data proving my coding language distribution and initiative.*
+*Visual proof of my coding initiative and technical growth.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&hide_border=true" alt="EngReteti Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngReteti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&hide_border=true" alt="EngReteti Stats" width="60%" />
 </p>
 
 ---
