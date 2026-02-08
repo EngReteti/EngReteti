@@ -73,7 +73,7 @@
 ---
 
 
-### 📫 CONNECT WITH THE ME
+### 📫 CONNECT WITH ME
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amason-reteti" height="35" width="45" /></a>
 <a href="mailto:amasonlerionka@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="amasonlerionka" height="35" width="45" /></a>
 
