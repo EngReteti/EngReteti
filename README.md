@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Amason Lerionka Reteti
+# Hi 👋, I'm Reteti Amason Lerionka 
 ### **Computer Science Candidate at The Co-operative University of Kenya** 🎓
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+with+Logic;Leading+with+Empathy;Nurturing+Young+Tech+Enthusiasts;Junior+Software+Engineer;Thriving+in+Distributed+Systems)](https://git.io/typing-svg)
