@@ -20,30 +20,45 @@ I am currently building a rock-solid foundation in software construction, algori
 - 🔭 **Current Focus:** Deepening expertise in Software Engineering (Java & Python).
 - 🏗️ **Building:** Scalable applications, efficient Data Structures, and clean codebases.
 - 🎯 **Aspiration:** Transitioning to DevOps & Cloud Architecture after mastering the engineering core.
-- 🤝 **Community:** Passionate about giving back and encouraging young tech enthusiasts entering the field.
+- 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
 
 ---
 
-### 🛠 Tech Stack 
+### 🛠 Tech Stack & Toolkit
 
-**Languages & Core Engineering**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-007396?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-007396?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Tools & Environment**
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Console](https://img.shields.io/badge/Console-4D4D4D?style=for-the-badge&logo=linux-terminal&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-007396?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007396?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-007396?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+</p>
 
-**Data & Systems**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Distributed_Systems-00599C?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data_Structures-Algorithms-FF6F61?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/Console-007396?style=for-the-badge&logo=linux-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notepad++-007396?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 PERFORMANCE & MOMENTUM
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation" width="100%" />
+</p>
 
 ---
 
@@ -70,18 +85,6 @@ I am currently building a rock-solid foundation in software construction, algori
 
 ---
 
-### 📊 PERFORMANCE & MOMENTUM
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation" width="100%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 * **Email:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com)
 * **LinkedIn:** [Amason Reteti](https://www.linkedin.com/in/amason-reteti-b465a1361)
@@ -89,4 +92,3 @@ I am currently building a rock-solid foundation in software construction, algori
 <p align="center">
   <i>"Turning logic into solutions, and curiosity into innovation."</i>
 </p>
-
