@@ -1,82 +1,82 @@
-# Hi there! I'm Amason Reteti 👋 
+# Hi 👋, I'm Amason Reteti
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Community+Tech+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 </p>
+
+---
+
+### 🧬 THE ENGINEERING IDENTITY
+**Architecting scalable backend solutions while encouraging the next generation of tech talent.**
+**Logic-Driven • Community-Focused • Java & SQL Specialist**
 
 ---
 
 ### 👨‍💻 About Me
-I am a **Computer Science student at The Co-operative University of Kenya** with a laser focus on becoming a highly experienced **Software Engineer**. I believe that a great Cloud Architect must first be a great developer. 
+I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud. 
 
-Right now, I am dedicated to building a rock-solid foundation in software construction, algorithm design, and system logic. My goal is to master the art of building robust applications before transitioning into the world of DevOps and Cloud Infrastructure.
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
-- 🔭 **Current Focus:** Deepening my expertise in Software Engineering (Java & Python).
-- 🏗️ **Building:** Scalable applications, efficient Data Structures, and clean codebases.
-- 🎯 **Aspiration:** Transitioning into DevOps & Cloud Architecture once my engineering foundation is elite.
-- 🤝 **Community:** I'm passionate about giving back and encouraging young tech enthusiasts.
-
----
-
-### 🛠️ Technical Stack & Tools
-
-**Core Engineering (Current Focus)**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Data Structures](https://img.shields.io/badge/DSA-Expertise-green?style=for-the-badge)
-
-**Web & Database**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Environment**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+* 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
+* 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
+* ☁️ **Keen Interest:** DevOps Engineering and Cloud Computing (Future Architect).
+* 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
+* 📬 Reach me at **amasonlerionka@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/amason-reteti-b465a1361)
 
 ---
 
-### 🛤️ My Growth Roadmap
+### 👨‍💻 TECH STACK & TOOLKIT
+*Moving in series: My specialized engineering stack with identified logic tools.*
 
-#### 🟢 Phase 1: Software Engineering (Now)
-* **Mastering Java & Python:** Building complex systems and multithreaded applications.
-* **Advanced DSA:** Solving high-level problems to sharpen logical thinking.
-* **System Design:** Understanding how to architect software for scalability and maintainability.
-* **Clean Code:** Writing readable, professional-grade code that lasts.
-
-#### 🔵 Phase 2: DevOps & Cloud Architecture (Future)
-* **Containerization:** Moving from local code to **Docker** and **Kubernetes**.
-* **CI/CD Pipelines:** Automating the software delivery lifecycle.
-* **Infrastructure as Code (IaC):** Learning **Terraform** to treat infrastructure like software.
-* **Cloud Platforms:** Mastering **AWS** or **Azure** to build global-scale architectures.
-
----
-
-### 🧠 Soft Skills & Values
-* **Logical Thinker:** Breaking down complex problems into manageable steps.
-* **Critical Problem Solver:** Finding the 'Why' before the 'How'.
-* **Mentor Spirit:** Sharing knowledge to help the Kenyan tech ecosystem grow.
-* **Passionate Learner:** Constant curiosity about distributed systems and networking.
-
----
-
-### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://img.shields.io/badge/JAVA-FFA500?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/NETBEANS-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONSOLE-4D4D4D?style=for-the-badge&logo=linux-terminal&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-I’m always open to discussing software patterns, logic, or the future of tech!
+### 📈 PERFORMANCE & MOMENTUM
+*Visualizing my daily initiative and coding consistency.*
 
-* **Email:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com)
-* **LinkedIn:** [Amason Reteti](https://www.linkedin.com/in/amason-reteti-b465a1361)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+---
+
+### 🚧 JUNIOR ENGINEER FOCUS
+*Active development and architectural research:*
+
+* ⚡ **Backend Systems:** Refinement of Java-based logic to handle high-concurrency distributed systems.
+* 🗄️ **Database Integrity:** Designing optimized SQL schemas for scalable data management.
+* 📡 **Network Protocols:** Exploring distributed networking to build faster, more reliable connections.
+
+---
+
+### 🛤️ FUTURE ROADMAP (DevOps & Cloud)
+* **What I should learn next:** Docker, CI/CD pipelines, and Kubernetes to bridge code and infrastructure.
+* **Cloud Focus:** AWS/Azure Cloud Engineering and Infrastructure as Code (IaC).
+
+---
+
+### 🧠 SKILLS & VALUES
+* **Soft Skills:** Logical Reasoning, Critical Thinking, **Encouraging** others, Adaptability.
+* **Tech Skills:** Full-cycle Software Development, Networking, Distributed Systems, DSA.
 
 ---
 <p align="center">
   <i>"Logic is the foundation; the Cloud is the limit."</i>
 </p>
+
