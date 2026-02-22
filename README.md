@@ -1,102 +1,52 @@
 <div align="center">
 
-# 👋 Hi, I'm Reteti Amason Lerionka 
-### **Computer Science Engineer | Software Architect in the Making** 🎓
-**The Co-operative University of Kenya**
+# ⚡ Reteti Amason Lerionka
+### **Software Engineer | Distributed Systems Specialist | DevOps Aspirant**
+**The Co-operative University of Kenya** 🎓
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+with+Logic;Architecting+Cloud+Solutions;Mastering+Distributed+Systems;Nurturing+Tech+Enthusiasts;Solving+Complex+Problems)](https://git.io/typing-svg)
-
----
-
-### 🧬 **THE ENGINEERING IDENTITY**
-> "I don't just write code; I build resilient systems and human-centric communities."
-
-I am a deeply passionate **Computer Science student** bridging the gap between academic theory and industry-scale **Software Engineering**. My foundation is built on **Logical Thinking**, **Critical Problem-Solving**, and a thriving interest in **Distributed Systems**. Beyond the terminal, I am a mentor committed to nurturing the next generation of Kenyan tech talent.
-
-**Logic-Driven** • **Community-Focused** • **DevOps Enthusiast** • **Cloud Architect Trainee**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Java+Systems;Mastering+Distributed+Networks;Architecting+Cloud+Solutions;Nurturing+the+Tech+Community;Logical+Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ TECHNICAL ARSENAL
-*Synthesizing coursework into real-world engineering solutions.*
+### 🧬 Professional Identity
+*A Computer Science Engineer driven by logic, consistency, and a passion for architectural excellence.*
 
-### **Core Languages & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+I specialize in bridging the gap between **Complex Algorithms** and **Scalable Software**. With a solid foundation in Java and Python, I thrive in environments that challenge my critical thinking—specifically in **Distributed Systems** and **Database Integrity**. Beyond the code, I am a community-centric mentor dedicated to lifting others as I climb.
 
-### **Web & Specialized Modules**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
-
-### **Engineering Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-B7178C?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+[**Explore My Portfolio**](#) • [**Read My Technical Blog**](#) • [**View My Certifications**](#)
 
 ---
 
-## 🏗️ ACADEMIC & PROFESSIONAL SYNERGY
-*How my University modules translate to Engineering value:*
+## 🛠️ The Technical Stack
+*A comprehensive look at the tools I use to turn logic into reality.*
 
-* **DSA & Logic:** Crafting efficient algorithms to solve complex, real-world computational bottlenecks.
-* **Networking & Distributed Systems:** Understanding the backbone of the internet to build high-availability, decentralized applications.
-* **Database Management:** Designing ACID-compliant MySQL architectures for data integrity.
-* **AI & Python:** Implementing intelligent patterns for predictive modeling and automation.
-
----
-
-## ☁️ DEVOPS & CLOUD EVOLUTION (THE ROADMAP)
-*My hierarchical journey towards Cloud Architecture & System Reliability.*
-
-1.  **Phase 1: Foundation (Current)** * Mastering **Linux Administration** & Shell Scripting.
-    * Deepening **Java/Python** integration for automation.
-2.  **Phase 2: Orchestration (Upcoming)** * Learning **Docker** (Containerization) and **Kubernetes**.
-    * Implementing CI/CD pipelines with **GitHub Actions**.
-3.  **Phase 3: Cloud Architecture (Goal)**
-    * Mastering **AWS/Azure** infrastructure as code (Terraform).
-    * Architecting scalable, serverless distributed systems.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend & DB** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **DevOps & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **IDEs** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-B7178C?style=flat-square&logo=apache-netbeans&logoColor=white) |
 
 ---
 
-## 📈 PERFORMANCE & MOMENTUM
-*Visualizing my daily initiative and coding consistency.*
+## 🏗️ Academic & Engineering Mastery
+*Synthesizing my coursework from The Co-operative University into professional value.*
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 COMMUNITY & MENTORSHIP
-I believe that **tech is a team sport**. I am actively involved in:
-- **Mentorship:** Guiding junior peers at the Co-operative University through complex DSA and Java concepts.
-- **Open Source:** Contributing to projects that focus on community growth and educational accessibility.
-- **Critical Thinking:** Participating in hackathons to solve local Kenyan problems through logical tech solutions.
+* **Distributed Systems:** Mastering the art of horizontal scaling and fault tolerance in high-concurrency environments.
+* **Networking:** Understanding TCP/IP, sockets, and the underlying protocols that power modern cloud architecture.
+* **Data Structures (DSA):** Writing optimized, logic-heavy code with a focus on Big O efficiency.
+* **Database Management:** Expert in relational schema design and query optimization using MySQL.
+* **Artificial Intelligence:** Leveraging Python to build intelligent agents and data-driven insights.
 
 ---
 
-## 📊 STATS AT A GLANCE
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&hide_border=true" alt="EngReteti Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngReteti&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## ☁️ The Growth Roadmap: Path to Cloud Architecture
+*My strategic journey toward becoming a Cloud & DevOps Expert.*
 
----
-
-### 📫 LET'S INNOVATE TOGETHER
-<a href="https://www.linkedin.com/in/amason-reteti-b465a1361" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amasonlerionka@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-**"Engineering for the future. Mentoring for the present. Thriving in the logic."** 📈
-</div>
+```mermaid
+graph TD
+    A[<b>CS Foundations</b><br/>Java, DSA, Networking] --> B[<b>Backend Engineering</b><br/>Spring Boot, APIs, SQL]
+    B --> C[<b>DevOps & Virtualization</b><br/>Linux, Docker, CI/CD]
+    C --> D[<b>Cloud Architecture</b><br/>AWS/Azure, Terraform, K8s]
+    style D fill:#2196F3,stroke:#fff,stroke-width:2px,color:#fff
