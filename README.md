@@ -20,12 +20,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-<table>
-  <tr>
-    <td><h3>Tech Stack</h3></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="35" height="35"></td>
-  </tr>
-</table>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=0&color=FFFFFF&width=160&lines=Tech+Stack" alt="Tech Stack" style="vertical-align:middle;"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="32" height="32" style="display:inline; vertical-align:middle;">
 
 *Uniform calm background with official brand-colored icons.*
 
