@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Reteti Amason Lerionka
+# Hi 👋, I'm Amason Reteti
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
