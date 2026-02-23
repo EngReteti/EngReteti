@@ -20,7 +20,12 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-<h3 align="left">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" style="vertical-align:middle;"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="30" height="30" style="vertical-align:middle;"></h3>
+<table>
+  <tr>
+    <td><h3>Tech Stack</h3></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="35" height="35"></td>
+  </tr>
+</table>
 
 *Uniform calm background with official brand-colored icons.*
 
