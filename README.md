@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Amason Reteti
+# Hi 👋, I'm Reteti Amason Lerionka 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
@@ -25,9 +25,13 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-34495E?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;
+
   <img src="https://img.shields.io/badge/Python-34495E?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
+
   <img src="https://img.shields.io/badge/JavaScript-34495E?style=for-the-badge&logo=javascript&logoColor=white" /> &nbsp;
+
   <img src="https://img.shields.io/badge/HTML5-34495E?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
+
   <img src="https://img.shields.io/badge/CSS3-34495E?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
