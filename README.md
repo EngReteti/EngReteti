@@ -20,7 +20,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### Tech Stack <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=0&color=FFFFFF&width=50&lines=%3C%2F%3E;%20" alt="blinking icon" style="vertical-align: middle;" />
+### Tech Stack <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="32" height="32" style="display: inline; vertical-align: middle; margin-bottom: 4px;">
 
 *Uniform calm background with official brand-colored icons.*
 
