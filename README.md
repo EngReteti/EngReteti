@@ -20,7 +20,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### Tech Stack <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="32" height="32" align="center" style="margin-bottom: 4px;" />
+### Tech Stack <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="38" style="display: inline-block; vertical-align: middle; margin-bottom: 8px;">
 *Uniform calm background with official brand-colored icons.*
 
 <p align="left">
