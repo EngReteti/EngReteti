@@ -20,8 +20,8 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### 🛠 Tech Stack & Toolkit
-*Organized by core competencies with a professional slate-blue finish.*
+### 🛠 Tech Stack & Toolkit </>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-34495E?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;
