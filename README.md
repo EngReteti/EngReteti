@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm Amason Reteti
+# Hi 👋, I'm Amason Reteti
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
@@ -20,7 +20,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### Tech Stack <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/vIU72Dsn02UvFw9e3J/giphy.gif" width="32" height="32" style="display: inline; vertical-align: middle; margin-bottom: 4px;">
+### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="vertical-align: middle;" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=0&color=FFFFFF&width=50&lines=%3C%2F%3E;%E2%9C%A7;%E2%96%B2;%E2%97%86" alt="rotating icon" style="vertical-align: middle;" />
 
 *Uniform calm background with official brand-colored icons.*
 
