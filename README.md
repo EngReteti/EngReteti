@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Amason Reteti
+# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm Reteti Amason Lerionka
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
