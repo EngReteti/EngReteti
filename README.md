@@ -20,7 +20,8 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### Tech Stack <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&width=50&lines=%3C%2F%3E" alt="Code Symbol" />
+### Tech Stack 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&width=50&lines=%3C%2F%3E" alt="Code Symbol" />
 *Uniform calm background with official brand-colored icons.*
 
 <p align="left">
