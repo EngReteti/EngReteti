@@ -1,56 +1,53 @@
+<div align="center">
+
 # Hi 👋, I'm Amason Reteti
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
----
-
-### 🧬 THE ENGINEERING IDENTITY
-**Architecting scalable backend solutions while encouraging the next generation of tech talent.**
-**Logic-Driven • Community-Focused • Java & SQL Specialist**
+</div>
 
 ---
 
 ### 👨‍💻 About Me
-I am a **Computer Science student at The Co-operative University of Kenya** with a laser focus on becoming a highly experienced **Software Engineering** professional. My philosophy is simple: a great Cloud Architect must first be an elite developer. 
+I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud. 
 
-I am currently building a rock-solid foundation in software construction, algorithm design, and system logic. I am dedicated to mastering the art of building robust, scalable applications before transitioning into the world of DevOps and Cloud Infrastructure.
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
-- 🔭 **Current Focus:** Deepening expertise in Software Engineering (Java & Python).
-- 🏗️ **Building:** Scalable applications, efficient Data Structures, and clean codebases.
-- 🎯 **Aspiration:** Transitioning to DevOps & Cloud Architecture after mastering the engineering core.
-- 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
+* 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
+* 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
+* ☁️ **Keen Interest:** DevOps Engineering and Cloud Computing (Future Architect).
+* 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
 
 ---
 
 ### 🛠 Tech Stack & Toolkit
+*Organized by core competencies with a professional slate-blue finish.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-007396?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-007396?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-34495E?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Python-34495E?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-34495E?style=for-the-badge&logo=javascript&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-34495E?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-34495E?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-007396?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007396?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-007396?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-34495E?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Linux-34495E?style=for-the-badge&logo=linux&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-34495E?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/NetBeans-34495E?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Console-007396?style=for-the-badge&logo=linux-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notepad++-007396?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Console-34495E?style=for-the-badge&logo=linux-terminal&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Notepad++-34495E?style=for-the-badge&logo=notepadplusplus&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Networking-34495E?style=for-the-badge" /> &nbsp;
+  <img src="https://img.shields.io/badge/DSA-34495E?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 PERFORMANCE & MOMENTUM
+### 📈 Performance & Momentum
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight" alt="GitHub Streak" height="180" />
@@ -74,20 +71,23 @@ I am currently building a rock-solid foundation in software construction, algori
 * **Containerization:** Learning **Docker** to package applications.
 * **CI/CD:** Automating the software delivery lifecycle.
 * **Cloud Platforms:** Mastering **AWS/Azure** to build global-scale architectures.
-* **IaC:** Learning **Terraform** to manage infrastructure as code.
 
 ---
 
-### 🧠 Soft Skills
-* **Critical Thinker:** Analyzing the "Why" before the "How."
-* **Logical & Orderly:** Approaching development with a structured, step-by-step mindset.
-* **Encouraging:** Sharing tech skills to support the next generation.
+### 🧠 Core Competencies
+* **Problem Solving:** Ability to decompose complex technical challenges into logical, solvable components using algorithmic thinking.
+* **Critical Thinker:** Analyzing systems and code patterns to ensure efficiency before implementation.
+* **Logical & Orderly:** Approaching development with a structured, step-by-step mindset for high-quality results.
+* **Encouraging:** Actively sharing knowledge to uplift the next generation of tech talent.
 
 ---
 
 ### 📫 Connect with Me
-* **Email:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com)
-* **LinkedIn:** [Amason Reteti](https://www.linkedin.com/in/amason-reteti-b465a1361)
+<p align="left">
+<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <i>"Turning logic into solutions, and curiosity into innovation."</i>
