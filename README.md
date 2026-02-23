@@ -34,31 +34,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/NetBeans-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Console-4D4D4D?style=for-the-badge&logo=linux-terminal&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge" /> &nbsp;
-  <img src="https://img.shields.io/badge/DSA-FF6F61?style=for-the-badge" />
-</p>
-
----
-
-### 📈 Performance & Momentum
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation" width="100%" />
-</p>
-
----
-
+  <img src="https://img.shields.io/badge/VS_Code-
 ### 🛤️ My Growth Roadmap
 
 #### 🟢 Phase 1: Software Engineering (Current Focus)
@@ -67,23 +43,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 * **System Design:** Understanding how to architect software for scalability.
 * **Clean Code:** Writing readable, professional-grade code that is maintainable.
 
-#### 🔵 Phase 2: DevOps & Cloud Architecture (Keen Interest)
-* **Containerization:** Learning **Docker** to package applications.
-* **CI/CD:** Automating the software delivery lifecycle.
-* **Cloud Platforms:** Mastering **AWS/Azure** to build global-scale architectures.
-
----
-
-### 🧠 Core Competencies
-* **Problem Solving:** Ability to decompose complex technical challenges into logical, solvable components using algorithmic thinking.
-* **Critical Thinker:** Analyzing systems and code patterns to ensure efficiency before implementation.
-* **Logical & Orderly:** Approaching development with a structured, step-by-step mindset for high-quality results.
-* **Encouraging:** Actively sharing knowledge to uplift the next generation of tech talent.
-
----
-
-### 📫 Connect with Me
-<p align="left">
+#### 🔵 Phas
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
