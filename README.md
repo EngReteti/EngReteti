@@ -25,13 +25,9 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-34495E?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;
-
-  <img src="https://img.shields.io/badge/Python-34495E?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
-
+ <img src="https://img.shields.io/badge/Python-34495E?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-34495E?style=for-the-badge&logo=javascript&logoColor=white" /> &nbsp;
-
   <img src="https://img.shields.io/badge/HTML5-34495E?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
-
   <img src="https://img.shields.io/badge/CSS3-34495E?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
