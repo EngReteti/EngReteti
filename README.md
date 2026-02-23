@@ -11,18 +11,18 @@
 ### 👨‍💻 About Me
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud.
 
-My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in software engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
 * 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
-* ☁️ **Keen Interest:** DevOps Engineering and Cloud Computing (Future Architect).
-* 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
+* ☁️ **Keen Interest:** I am keen on DevOps Engineering and Cloud Computing.
+* 🤝 **Community:** I love giving back my tech skills to the community and encouraging young tech enthusiasts entering the field.
 
 ---
 
 ### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="vertical-align: middle;" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=0&color=FFFFFF&width=50&lines=%3C%2F%3E;%E2%9C%A7;%E2%96%B2;%E2%97%86" alt="rotating icon" style="vertical-align: middle;" />
 
-*Uniform calm background with official brand-colored icons.*
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-2C3E50?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> &nbsp;
