@@ -15,7 +15,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 * 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
-* ☁️ **Keen Interest:** DevOps Engineering and Cloud Computing (Future Architect).
+* ☁️ **Keen Interest:** I am keen in DevOps Engineering and Cloud Computing.
 * 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
 
 ---
