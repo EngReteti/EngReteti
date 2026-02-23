@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Amason Ler Reteti
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Amason Reteti
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
@@ -20,29 +20,29 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
-*Organized by core competencies using sleek, uniform badges.*
+### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" />
+*Uniform calm background with official brand-colored icons.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2C3E50?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> &nbsp;
+  <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=3776AB" /> &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-2C3E50?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-2C3E50?style=for-the-badge&logo=html5&logoColor=E34F26" /> &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-2C3E50?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/NetBeans-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=4479A1" /> &nbsp;
+  <img src="https://img.shields.io/badge/Linux-2C3E50?style=for-the-badge&logo=linux&logoColor=FCC624" /> &nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-2C3E50?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> &nbsp;
+  <img src="https://img.shields.io/badge/NetBeans-2C3E50?style=for-the-badge&logo=apache-netbeans-ide&logoColor=78A700" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Console-4D4D4D?style=for-the-badge&logo=linux-terminal&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge" /> &nbsp;
-  <img src="https://img.shields.io/badge/DSA-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Console-2C3E50?style=for-the-badge&logo=linux-terminal&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Notepad++-2C3E50?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A" /> &nbsp;
+  <img src="https://img.shields.io/badge/Networking-2C3E50?style=for-the-badge" /> &nbsp;
+  <img src="https://img.shields.io/badge/DSA-2C3E50?style=for-the-badge" />
 </p>
 
 ---
