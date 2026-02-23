@@ -84,7 +84,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### 📫 Connect with Me
+### 📫 Feel Free to Connect with Me
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
