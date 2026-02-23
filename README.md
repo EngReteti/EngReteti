@@ -20,7 +20,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
-### 🛠 Tech Stack & Toolkit </>
+### 🛠 Tech Stack</>
 
 
 <p align="left">
