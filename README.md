@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud. 
 
-My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in software engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
 * 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
