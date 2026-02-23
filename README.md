@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z5YXptZ3Z3bm9qZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqJnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWU/hvR5vY6vXF6fS/giphy.gif" width="40" height="40" />, I'm Amason Reteti
+# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm Amason Reteti
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
@@ -10,6 +10,8 @@
 
 ### 👨‍💻 About Me
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud. 
+
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
 * 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
@@ -54,6 +56,21 @@ I am a **Computer Science student at The Co-operative University of Kenya** curr
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation" width="100%" />
 </p>
+
+---
+
+### 🛤️ My Growth Roadmap
+
+#### 🟢 Phase 1: Software Engineering (Current Focus)
+* **Mastering Logic:** Building complex systems and multithreaded applications in Java.
+* **AI & Python:** Utilizing Python for problem-solving and Artificial Intelligence units.
+* **System Design:** Understanding how to architect software for scalability.
+* **Clean Code:** Writing readable, professional-grade code that is maintainable.
+
+#### 🔵 Phase 2: DevOps & Cloud Architecture (Keen Interest)
+* **Containerization:** Learning **Docker** to package applications.
+* **CI/CD:** Automating the software delivery lifecycle.
+* **Cloud Platforms:** Mastering **AWS/Azure** to build global-scale architectures.
 
 ---
 
