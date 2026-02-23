@@ -31,12 +31,14 @@ My journey is rooted in building efficient, maintainable software. Once I have e
   <img src="https://img.shields.io/badge/CSS3-34495E?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-34495E?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Linux-34495E?style=for-the-badge&logo=linux&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/VS_Code-34495E?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/NetBeans-34495E?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 </p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Console-34495E?style=for-the-badge&logo=linux-terminal&logoColor=white" /> &nbsp;
