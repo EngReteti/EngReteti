@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EngReteti&label=PROFILE+VIEWS&color=4A90E2&style=flat-square" alt="Views" />
+</p>
+
 </div>
 
 ---
@@ -20,29 +24,40 @@
 ### 👨‍💻 About Me
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud.
 
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
+
 * 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
-* ☁️ **Keen Interest:** DevOps Engineering and Cloud Architecture (Future Architect).
+* ☁️ **Keen Interest:** DevOps Engineering and Cloud Computing (Future Architect).
 * 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
 
 ---
 
-### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="vertical-align: middle;" /> 
+### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="vertical-align: middle;" />
 ![Activity Bar](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d3ff64175b9.gif)
 
+*Utilizing a calm, professional palette for high readability.*
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-233447?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> &nbsp;
-  <img src="https://img.shields.io/badge/Python-233447?style=for-the-badge&logo=python&logoColor=3776AB" /> &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-233447?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-233447?style=for-the-badge&logo=mysql&logoColor=4479A1" /> &nbsp;
-  <img src="https://img.shields.io/badge/Linux-233447?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Java-233447?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> 
+  <img src="https://img.shields.io/badge/Python-233447?style=for-the-badge&logo=python&logoColor=3776AB" /> 
+  <img src="https://img.shields.io/badge/JavaScript-233447?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  <img src="https://img.shields.io/badge/HTML5-233447?style=for-the-badge&logo=html5&logoColor=E34F26" /> 
+  <img src="https://img.shields.io/badge/CSS3-233447?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-233447?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> &nbsp;
-  <img src="https://img.shields.io/badge/NetBeans-233447?style=for-the-badge&logo=apache-netbeans-ide&logoColor=78A700" /> &nbsp;
-  <img src="https://img.shields.io/badge/Console-233447?style=for-the-badge&logo=linux-terminal&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/DSA-233447?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-233447?style=for-the-badge&logo=mysql&logoColor=4479A1" /> 
+  <img src="https://img.shields.io/badge/Linux-233447?style=for-the-badge&logo=linux&logoColor=FCC624" /> 
+  <img src="https://img.shields.io/badge/VS_Code-233447?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> 
+  <img src="https://img.shields.io/badge/NetBeans-233447?style=for-the-badge&logo=apache-netbeans-ide&logoColor=78A700" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Console-233447?style=for-the-badge&logo=linux-terminal&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Notepad++-233447?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A" /> 
+  <img src="https://img.shields.io/badge/Networking-233447?style=for-the-badge&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/DSA-233447?style=for-the-badge&logo=algorithm&logoColor=white" />
 </p>
 
 ---
@@ -63,11 +78,32 @@ I am a **Computer Science student at The Co-operative University of Kenya** curr
 
 #### 🟢 Phase 1: Software Engineering (Current Focus)
 * **Mastering Logic:** Building complex systems and multithreaded applications in Java.
+* **AI & Python:** Utilizing Python for problem-solving and Artificial Intelligence units.
+* **System Design:** Understanding how to architect software for scalability.
 * **Clean Code:** Writing readable, professional-grade code that is maintainable.
 
 #### 🔵 Phase 2: DevOps & Cloud Architecture (Keen Interest)
 * **Containerization:** Learning **Docker** to package applications.
+* **CI/CD:** Automating the software delivery lifecycle.
 * **Cloud Platforms:** Mastering **AWS/Azure** to build global-scale architectures.
+
+---
+
+### 🧩 Daily Logic Puzzle
+> **The Programmer's Riddle:**
+> I am a language without words. I am a structure without a building. I help you find things faster, but if I am not balanced, I become slow. What am I?
+<details>
+  <summary>Click to see the Answer</summary>
+  <b>A Binary Search Tree (BST)!</b>
+</details>
+
+---
+
+### 🧠 Core Competencies
+* **Problem Solving:** Ability to decompose complex technical challenges into logical components.
+* **Critical Thinker:** Analyzing systems to ensure efficiency before implementation.
+* **Logical & Orderly:** Approaching development with a structured mindset for high-quality results.
+* **Encouraging:** Actively sharing knowledge to uplift the next generation of tech talent.
 
 ---
 
