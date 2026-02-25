@@ -4,24 +4,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngReteti&label=LOGIC+EXPLORERS&color=4A90E2&style=flat-square" alt="Views" />
-</p>
-
 </div>
 
 ---
 
 ### 🐍 The Logic Snake
-**A Software Engineer's productivity visualized. Watch the snake eat the commits!**
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
 </picture>
-
-> **Note:** To make this game "live" and moving, you simply need to enable the **GitHub Action** in your repository settings.
 
 ---
 
