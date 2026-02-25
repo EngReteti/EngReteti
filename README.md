@@ -12,9 +12,20 @@
 
 ---
 
-### 🎮 The Logic Maze: Critical Thinking Challenge
-*Before you explore my journey, can you solve the path to the source?*
+### 🐍 The Logic Snake
+**A Software Engineer's productivity visualized. Watch the snake eat the commits!**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
+</picture>
+
+> **Note:** To make this game "live" and moving, you simply need to enable the **GitHub Action** in your repository settings.
+
+---
+
+### 🎮 The Logic Maze: Critical Thinking Challenge
 ```text
       [START]
          |
