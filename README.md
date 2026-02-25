@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngReteti&label=LOGIC+EXPLORERS&color=4A90E2&style=flat-square" alt="Views" />
-</p>
-
 </div>
 
 ---
@@ -31,7 +27,8 @@ I am a **Computer Science student at The Co-operative University of Kenya** curr
 
 ---
 
-### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="vertical-align: middle;" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=0&color=4A90E2&width=50&lines=%3C%2F%3E;%E2%9C%A7;%E2%96%B2;%E2%97%86" alt="rotating icon" style="vertical-align: middle;" />
+### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="vertical-align: middle;" /> 
+![Activity Bar](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d3ff64175b9.gif)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-233447?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> &nbsp;
