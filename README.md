@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngReteti&label=PROFILE+VIEWS&color=4A90E2&style=flat-square" alt="Views" />
-</p>
-
 </div>
 
 ---
@@ -34,7 +30,6 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 ---
 
 ### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="vertical-align: middle;" />
-![Activity Bar](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d3ff64175b9.gif)
 
 *Utilizing a calm, professional palette for high readability.*
 
@@ -49,13 +44,14 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-233447?style=for-the-badge&logo=mysql&logoColor=4479A1" /> 
   <img src="https://img.shields.io/badge/Linux-233447?style=for-the-badge&logo=linux&logoColor=FCC624" /> 
-  <img src="https://img.shields.io/badge/VS_Code-233447?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> 
-  <img src="https://img.shields.io/badge/NetBeans-233447?style=for-the-badge&logo=apache-netbeans-ide&logoColor=78A700" />
+  <img src="https://img.shields.io/badge/Postman-233447?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Photoshop-233447?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-233447?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> 
+  <img src="https://img.shields.io/badge/NetBeans-233447?style=for-the-badge&logo=apache-netbeans-ide&logoColor=78A700" />
   <img src="https://img.shields.io/badge/Console-233447?style=for-the-badge&logo=linux-terminal&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Notepad++-233447?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A" /> 
   <img src="https://img.shields.io/badge/Networking-233447?style=for-the-badge&logo=cisco&logoColor=white" /> 
   <img src="https://img.shields.io/badge/DSA-233447?style=for-the-badge&logo=algorithm&logoColor=white" />
 </p>
@@ -89,6 +85,14 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ---
 
+### 🧠 Core Competencies
+* **Problem Solving:** Ability to decompose complex technical challenges into logical components.
+* **Critical Thinker:** Analyzing systems to ensure efficiency before implementation.
+* **Logical & Orderly:** Approaching development with a structured mindset for high-quality results.
+* **Encouraging:** Actively sharing knowledge to uplift the next generation of tech talent.
+
+---
+
 ### 🧩 Daily Logic Puzzle
 > **The Programmer's Riddle:**
 > I am a language without words. I am a structure without a building. I help you find things faster, but if I am not balanced, I become slow. What am I?
@@ -96,14 +100,6 @@ My journey is rooted in building efficient, maintainable software. Once I have e
   <summary>Click to see the Answer</summary>
   <b>A Binary Search Tree (BST)!</b>
 </details>
-
----
-
-### 🧠 Core Competencies
-* **Problem Solving:** Ability to decompose complex technical challenges into logical components.
-* **Critical Thinker:** Analyzing systems to ensure efficiency before implementation.
-* **Logical & Orderly:** Approaching development with a structured mindset for high-quality results.
-* **Encouraging:** Actively sharing knowledge to uplift the next generation of tech talent.
 
 ---
 
@@ -116,7 +112,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 <p align="center">
   <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
   <br />
   <i>"Turning logic into solutions, and curiosity into innovation."</i>
 </p>
