@@ -2,7 +2,7 @@
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm Reteti Amason Lerionka
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Encouraging+Young+Tech+Enthusiasts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Giving+back+to+the+community" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 * 🔭 **Currently Working On:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Current Learning:** Advanced DSA, Database Management, and Distributed Systems.
 * ☁️ **Keen Interest:** DevOps Engineering and Cloud Computing (Future Architect).
-* 🤝 **Community:** I love giving back my tech skills and **encouraging** young tech enthusiasts entering the field.
+* 🤝 **Community:** I love **giving back to the community** by sharing my tech skills and knowledge.
 
 ---
 
@@ -89,7 +89,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 * **Problem Solving:** Ability to decompose complex technical challenges into logical components.
 * **Critical Thinker:** Analyzing systems to ensure efficiency before implementation.
 * **Logical & Orderly:** Approaching development with a structured mindset for high-quality results.
-* **Encouraging:** Actively sharing knowledge to uplift the next generation of tech talent.
+* **Giving back to the community:** Actively sharing knowledge to uplift others in the field.
 
 ---
 
