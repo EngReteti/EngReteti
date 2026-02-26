@@ -88,18 +88,18 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 ## 🧠 Core Competencies
 * **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
 * **Critical Thinking:** Evaluating system architectural integrity before implementation.
-* **Structural Logic:** Approaching development with a rigid, high-quality standard.
-* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers through open communication.
+* **Structural Logic:** Approaching development with a structured mindset.
+* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers.
 
 ---
 
-## 🧩 Daily Logic Puzzle
+## 🧩 Monthly Logic Puzzle
 > **The Programmer's Riddle:**
-> I am a language without words. I am a structure without a building. I help you find things faster, but if I am not balanced, I become slow. What am I?
+> I am a requirement that must be met before you can proceed. I am often shared but never owned. If I am missing, your build will fail. What am I?
 <details>
   <summary><b>Click to reveal the logic</b></summary>
   <br />
-  <blockquote><b>A Binary Search Tree (BST)!</b></blockquote>
+  <blockquote><b>A Dependency!</b></blockquote>
 </details>
 
 ---
