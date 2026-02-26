@@ -25,7 +25,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 * 🔭 **Current Initiative:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Deep Learning:** Advanced DSA, Database Management, and Distributed Systems.
 * ☁️ **Vision:** DevOps Engineering and Cloud Computing (Future Architect).
-* 🤝 **Philanthropy:** I love **giving back to the community** by sharing my tech skills and knowledge.
+* 🤝 **Philanthropy:** I love giving back to the community by sharing my tech skills and knowledge.
 
 ---
 
