@@ -89,7 +89,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 * **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
 * **Critical Thinking:** Evaluating system architectural integrity before implementation.
 * **Structural Logic:** Approaching development with a rigid, high-quality standard.
-* **Community Leadership:** Actively sharing knowledge to uplift peers in the industry.
+* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers through open communication.
 
 ---
 
@@ -115,6 +115,4 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 <div align="center">
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
-  <br />
-  <i>"Turning logic into solutions, and curiosity into innovation."</i>
 </div>
