@@ -29,7 +29,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 <div align="center">
   <br />
-  <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
+  <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase GIF" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
@@ -102,10 +102,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 <div align="center">
   <br />
-  <img src="devops-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
-  <p align="center">
-    <strong>File Details:</strong> 1.07MB | 1920×1080px | Taken on: March 2, 2026
-  </p>
+  <img src="devops-cloud-native.gif" alt="Strategic Roadmap GIF" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
