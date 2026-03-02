@@ -30,7 +30,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 <div align="center">
   <br />
   <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
-  <br/>
+  <br />
 </div>
 
 ---
