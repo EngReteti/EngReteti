@@ -29,10 +29,7 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 <div align="center">
 
-### Project Showcase (Nordic Night Theme)
 <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" />
-
-**File Details:** 1.02MB | 1920x1080px | Taken on: March 2, 2026, 4:12 AM
 
 </div>
 
@@ -97,8 +94,8 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 ## 🧠 Core Competencies
 * **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
 * **Critical Thinking:** Evaluating system architectural integrity before implementation.
-* **Structural Logic:** Approaching development with a rigid, high-quality standard.
-* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers through open communication.
+* **Structural Logic:** Approaching development with a structural mindset.
+* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers.
 
 ---
 
@@ -125,4 +122,3 @@ My journey is rooted in building efficient, maintainable software. Once I have e
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
 </div>
-
