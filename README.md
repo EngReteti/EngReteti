@@ -17,10 +17,10 @@
 
 ---
 
-## 👨‍💻 About Me?
+## 👨‍💻 About Me
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud.
 
-My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in software engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
 * 🔭 **Current Initiative:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Deep Learning:** Advanced DSA, Database Management, and Distributed Systems.
@@ -114,6 +114,9 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 </p>
 
 <div align="center">
+  <br />
+  <img src="0e7dd4bcfb6cb54c4faa0a52a67b0b74.gif" alt="Connect Visual" width="300" style="border-radius: 10px;" />
+  <br />
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
 </div>
