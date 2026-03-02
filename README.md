@@ -37,24 +37,29 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ## 🛠️ Technical Ecosystem
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Terminal](https://img.shields.io/badge/Console-4D4D4D?style=for-the-badge&logo=linux-terminal&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0175C2?style=for-the-badge&logo=cisco&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF9800?style=for-the-badge&logo=algorithm&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="left">
+      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" />
+    </td>
+    <td width="50%" align="left">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/NetBeans-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Console-4D4D4D?style=for-the-badge&logo=linux-terminal&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Networking-0175C2?style=for-the-badge&logo=cisco&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/DSA-FF9800?style=for-the-badge&logo=algorithm&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
