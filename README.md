@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me?
+## 👨‍💻 About Me
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud.
 
 My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
@@ -28,19 +28,21 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 * 🤝 **Philanthropy:** I love **giving back to the community** by sharing my tech skills and knowledge.
 
 <div align="center">
-
-<img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" />
-
+  <br />
+  <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
+  <br />
 </div>
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
+<div align="center">
+
 <table>
   <tr>
     <td width="50%" align="left">
-      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" />
+      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="50%" align="left">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
@@ -61,16 +63,22 @@ My journey is rooted in building efficient, maintainable software. Once I have e
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 Analytics & Impact
 
-<p align="center">
+<div align="center">
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="180" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation&bg_color=1a1b27&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
