@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Giving+back+to+the+community" alt="Typing SVG" />
 
 ---
-
-### 🐍 Contribution Momentum
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
@@ -17,10 +15,10 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me?
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud.
 
-My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in software engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
 * 🔭 **Current Initiative:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Deep Learning:** Advanced DSA, Database Management, and Distributed Systems.
