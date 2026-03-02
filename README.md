@@ -29,11 +29,10 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 <div align="center">
 
-#### Project Showcase (Nordic Night Theme)
-<img src="https://raw.githubusercontent.com/EngReteti/EngReteti/main/nordic-night.gif" alt="Project Showcase GIF" width="800" />
+### Project Showcase (Nordic Night Theme)
+<img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" />
 
-File info: `9070324cdfc07c68d60eed0c39e77573.gif`, 1.02MB, 1920x1080px.
-Taken on: March 2, 2026, 4:12 AM.
+**File Details:** 1.02MB | 1920x1080px | Taken on: March 2, 2026, 4:12 AM
 
 </div>
 
@@ -98,8 +97,8 @@ Taken on: March 2, 2026, 4:12 AM.
 ## 🧠 Core Competencies
 * **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
 * **Critical Thinking:** Evaluating system architectural integrity before implementation.
-* **Structural Logic:** Approaching development with a structured mindset.
-* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers.
+* **Structural Logic:** Approaching development with a rigid, high-quality standard.
+* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers through open communication.
 
 ---
 
