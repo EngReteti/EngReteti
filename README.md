@@ -20,12 +20,22 @@
 ## 👨‍💻 Executive Summary
 I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud.
 
-My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in software engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
+My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
 
 * 🔭 **Current Initiative:** Building a strong foundation in Software Engineering through Java and Python.
 * 🌱 **Deep Learning:** Advanced DSA, Database Management, and Distributed Systems.
 * ☁️ **Vision:** DevOps Engineering and Cloud Computing (Future Architect).
-* 🤝 **Philanthropy:** I love giving back to the community by sharing my tech skills and knowledge.
+* 🤝 **Philanthropy:** I love **giving back to the community** by sharing my tech skills and knowledge.
+
+<div align="center">
+
+#### Project Showcase (Nordic Night Theme)
+<img src="https://raw.githubusercontent.com/EngReteti/EngReteti/main/nordic-night.gif" alt="Project Showcase GIF" width="800" />
+
+File info: `9070324cdfc07c68d60eed0c39e77573.gif`, 1.02MB, 1920x1080px.
+Taken on: March 2, 2026, 4:12 AM.
+
+</div>
 
 ---
 
