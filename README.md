@@ -18,42 +18,28 @@
 ## 👨‍💻 About Me
 I am a Computer Science student at The Co-operative University of Kenya. My philosophy is simple: **master the core logic of programming before scaling to the cloud.** I am a dedicated problem solver focused on building efficient, maintainable software and transitioning into high-impact infrastructure roles.
 
-* 🔭 **Current Initiative:** Deepening expertise in Java, Spring Boot, and Python.
+* 🔭 **Current Initiative:** Deepening expertise in Java, Python, and JavaScript.
 * 🌱 **Deep Learning:** DSA, Database Management, and Distributed Systems.
 * ☁️ **Vision:** Evolving from Software Engineering to DevOps and Cloud Architecture.
 * 🤝 **Philanthropy:** Passionate about giving back to the community by sharing tech skills.
 
 <div align="center">
   <br />
-  <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
+  <img src="https://i.imgur.com/9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
 ---
 
 ## 🛠️ Technical Ecosystem
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="left">
-      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
-    </td>
-    <td width="50%" align="left">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/DSA-FF9800?style=for-the-badge&logo=algorithm&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<details>
+  <summary>View my current tech stack</summary>
+  
+* **Languages:** Java, Python, JavaScript
+* **Web:** HTML5, CSS3
+* **Databases:** MySQL
+* **Tools/Environment:** Linux, VS Code, Postman, Networking, DSA
+</details>
 
 ---
 
@@ -77,23 +63,21 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ---
 
-## 🛤️ Strategic Roadmap
+## 🛤️ Professional Development Trajectory
 
-I approach my career with a calculated, phased strategy to ensure long-term mastery:
+* **Phase 1: Software Engineering (Current Focus)** I believe in building a rock-solid foundation. I am currently deepening my expertise to develop high-performance, user-centric applications before moving to complex infrastructure.
 
-* **Phase 1: Software Engineering (Current Focus)** I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. [attachment_0](attachment)
+* **Phase 2: DevOps Engineering (Next Upgrade)** Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master containerization and automation to ensure my software is resilient and production-ready.
 
-* **Phase 2: DevOps Engineering (Next Upgrade)** Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
-
-* **Phase 3: Cloud Architecture (Future Goal)** As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
-
-* **Phase 4: AI/ML Engineering (Keen Interest)** I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
+* **Phase 3: Cloud Architecture (Future Goal)** As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master cloud-native platforms to design high-availability, distributed systems that can serve global demands.
 
 <div align="center">
   <br />
-  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <img src="https://i.imgur.com/devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
+
+* **Phase 4: AI/ML Engineering (Keen Interest)** I am highly interested in the intersection of intelligence and software. I am exploring ML/DL concepts to create smart, real-world solutions.
 
 ---
 
@@ -115,7 +99,7 @@ I approach my career with a calculated, phased strategy to ensure long-term mast
 
 <div align="center">
   <br />
-  <img src="0e7dd4bcfb6cb54c4faa0a52a67b0b74.gif" alt="Connect Visual" width="300" style="border-radius: 10px;" />
+  <img src="https://i.imgur.com/0e7dd4bcfb6cb54c4faa0a52a67b0b74.gif" alt="Connect Visual" width="300" style="border-radius: 10px;" />
   <br />
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
