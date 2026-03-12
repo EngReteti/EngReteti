@@ -87,7 +87,6 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ## 🛤️ Professional Development Path
 
-I approach my career with a calculated, phased strategy to ensure long-term mastery:
 
 * **Phase 1: Software Engineering (Current Focus)** I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. 
 * **Phase 2: DevOps Engineering (Next Upgrade)** Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
