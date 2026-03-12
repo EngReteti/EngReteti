@@ -15,15 +15,13 @@
 
 ---
 
-## 👨‍💻 About Me?
-I am a **Computer Science student at The Co-operative University of Kenya** currently focusing on building a deep foundation in **Software Engineering**. I am a passionate problem solver and a critical thinker who believes in mastering the core logic of programming before scaling to the cloud.
+## 👨‍💻 About Me
+I am a Computer Science student at The Co-operative University of Kenya. My philosophy is simple: **master the core logic of programming before scaling to the cloud.** I am a dedicated problem solver focused on building efficient, maintainable software and transitioning into high-impact infrastructure roles.
 
-My journey is rooted in building efficient, maintainable software. Once I have established a strong professional foundation in software engineering, I am keen to transition into **DevOps Engineering** and **Cloud Architecture**.
-
-* 🔭 **Current Initiative:** Building a strong foundation in Software Engineering through Java and Python.
-* 🌱 **Deep Learning:** Advanced DSA, Database Management, and Distributed Systems.
-* ☁️ **Vision:** DevOps Engineering and Cloud Computing (Future Architect).
-* 🤝 **Philanthropy:** I love **giving back to the community** by sharing my tech skills and knowledge.
+* 🔭 **Current Initiative:** Deepening expertise in Java, Spring Boot, and Python.
+* 🌱 **Deep Learning:** DSA, Database Management, and Distributed Systems.
+* ☁️ **Vision:** Evolving from Software Engineering to DevOps and Cloud Architecture.
+* 🤝 **Philanthropy:** Passionate about giving back to the community by sharing tech skills.
 
 <div align="center">
   <br />
@@ -46,16 +44,10 @@ My journey is rooted in building efficient, maintainable software. Once I have e
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/NetBeans-78A700?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Console-4D4D4D?style=for-the-badge&logo=linux-terminal&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Networking-0175C2?style=for-the-badge&logo=cisco&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/DSA-FF9800?style=for-the-badge&logo=algorithm&logoColor=white" />
     </td>
   </tr>
@@ -87,16 +79,15 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ## 🛤️ Strategic Roadmap
 
-#### 🟢 **Phase 1: Software Engineering (Current Focus)**
-* **Mastering Logic:** Building complex systems and multithreaded applications in Java.
-* **AI & Python:** Utilizing Python for problem-solving and Artificial Intelligence units.
-* **System Design:** Architecting software for professional scalability.
-* **Clean Code:** Writing readable, professional-grade code for longevity.
+I approach my career with a calculated, phased strategy to ensure long-term mastery:
 
-#### 🔵 **Phase 2: DevOps & Cloud Architecture (Keen Interest)**
-* **Containerization:** Implementing **Docker** for environment parity.
-* **CI/CD:** Automating the software delivery lifecycle.
-* **Cloud Platforms:** Mastering **AWS/Azure** for global infrastructure.
+* **Phase 1: Software Engineering (Current Focus)** I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. [attachment_0](attachment)
+
+* **Phase 2: DevOps Engineering (Next Upgrade)** Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
+
+* **Phase 3: Cloud Architecture (Future Goal)** As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
+
+* **Phase 4: AI/ML Engineering (Keen Interest)** I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
 
 <div align="center">
   <br />
@@ -108,9 +99,9 @@ My journey is rooted in building efficient, maintainable software. Once I have e
 
 ## 🧠 Core Competencies
 * **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
-* **Critical Thinking:** Evaluating system architectural integrity before implementation.
-* **Structural Logic:** Approaching development with a rigid, high-quality standard.
-* **Collaboration & Mentorship:** Actively sharing knowledge and uplifting peers through open communication.
+* **Critical Thinking:** Evaluating architectural integrity before implementation.
+* **Structural Logic:** Maintaining rigid, high-quality coding standards.
+* **Collaboration & Mentorship:** Actively uplifting peers through open knowledge sharing.
 
 ---
 
