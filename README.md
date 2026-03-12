@@ -18,27 +18,28 @@
 ## 👨‍💻 About Me
 I am a Computer Science student at The Co-operative University of Kenya. My philosophy is simple: **master the core logic of programming before scaling to the cloud.** I am a dedicated problem solver focused on building efficient, maintainable software and transitioning into high-impact infrastructure roles.
 
-* 🔭 **Current Initiative:** Deepening expertise in Java, Python, and JavaScript.
+* 🔭 **Current Initiative:** Deepening expertise in Java, Spring Boot, and Python.
 * 🌱 **Deep Learning:** DSA, Database Management, and Distributed Systems.
 * ☁️ **Vision:** Evolving from Software Engineering to DevOps and Cloud Architecture.
 * 🤝 **Philanthropy:** Passionate about giving back to the community by sharing tech skills.
 
 <div align="center">
   <br />
-  <img src="https://i.imgur.com/9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
+  <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
 ---
 
 ## 🛠️ Technical Ecosystem
+
 <details>
   <summary>View my current tech stack</summary>
   
 * **Languages:** Java, Python, JavaScript
-* **Web:** HTML5, CSS3
-* **Databases:** MySQL
-* **Tools/Environment:** Linux, VS Code, Postman, Networking, DSA
+* **Frameworks:** Spring Boot
+* **Databases:** PostgreSQL
+* **Infrastructure/Tools:** Linux, VS Code, Networking, Data Structures & Algorithms
 </details>
 
 ---
@@ -65,19 +66,19 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ## 🛤️ Professional Development Trajectory
 
-* **Phase 1: Software Engineering (Current Focus)** I believe in building a rock-solid foundation. I am currently deepening my expertise to develop high-performance, user-centric applications before moving to complex infrastructure.
+* **Phase 1: Software Engineering (Current Focus)** I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure.
 
-* **Phase 2: DevOps Engineering (Next Upgrade)** Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master containerization and automation to ensure my software is resilient and production-ready.
+* **Phase 2: DevOps Engineering (Next Upgrade)** Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
 
-* **Phase 3: Cloud Architecture (Future Goal)** As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master cloud-native platforms to design high-availability, distributed systems that can serve global demands.
+* **Phase 3: Cloud Architecture (Future Goal)** As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
 
 <div align="center">
   <br />
-  <img src="https://i.imgur.com/devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
-* **Phase 4: AI/ML Engineering (Keen Interest)** I am highly interested in the intersection of intelligence and software. I am exploring ML/DL concepts to create smart, real-world solutions.
+* **Phase 4: AI/ML Engineering (Keen Interest)** I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
 
 ---
 
@@ -99,7 +100,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <div align="center">
   <br />
-  <img src="https://i.imgur.com/0e7dd4bcfb6cb54c4faa0a52a67b0b74.gif" alt="Connect Visual" width="300" style="border-radius: 10px;" />
+  <img src="0e7dd4bcfb6cb54c4faa0a52a67b0b74.gif" alt="Connect Visual" width="300" style="border-radius: 10px;" />
   <br />
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
