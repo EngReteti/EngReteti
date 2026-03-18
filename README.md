@@ -88,10 +88,10 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 ## 🛤️ Professional Development Path
 
 
-* **Current Focus: Software Engineering** I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. 
+* **Current Focus: Software Engineering** - I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. 
 * **Next Upgrade: DevOps Engineering** Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
 
-* **Future Goal: Cloud Architecture** As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
+* **Future Goal: Cloud Architecture** - As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
 
 <div align="center">
   <br />
@@ -99,7 +99,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
   <br />
 </div>
 
-* **Keen Interest: AI/ML Engineering** I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
+* **Keen Interest: AI/ML Engineering** - I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
 
 ---
 
