@@ -25,7 +25,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <div align="center">
   <br />
-  <img src="fe538f66ff7431c66cf81549a19f5d22-1796916270.jpg" alt="About Me Image" width="100%" style="border-radius: 10px;" />
+  <img src="giphy-2279301799.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
@@ -126,4 +126,3 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
 </div>
-
