@@ -25,7 +25,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <div align="center">
   <br />
-  <img src="9070324cdfc07c68d60eed0c39e77573.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
+  <img src="206916906-9bfb66d9-c419-44c2-908a-4885e610425f-720619030.gif" alt="Project Showcase" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
