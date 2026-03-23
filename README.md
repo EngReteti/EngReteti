@@ -38,7 +38,27 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🛠️ Technical Ecosystem <svg width="32" height="16" viewBox="0 0 32 16" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .code {
+      font-family: monospace;
+      font-size: 12px;
+      fill: #a855f7;
+      opacity: 0.8;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    @keyframes float {
+      0%   { transform: translateY(0px); opacity: 0.6; }
+      50%  { transform: translateY(-1px); opacity: 1; }
+      100% { transform: translateY(0px); opacity: 0.6; }
+    }
+  </style>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="code">
+    &lt;\&gt;
+  </text>
+</svg>
 
 <div align="center">
 
