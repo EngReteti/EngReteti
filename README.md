@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Giving+back+to+the+community" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&animation=fadeIn" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&animation=twinkling" width="100%"/>
 
 ## 👨‍💻 About Me
 I am a Computer Science student at The Co-operative University of Kenya. My philosophy is simple: **master the core logic of programming before scaling to the cloud.** I am a dedicated problem solver focused on building efficient, maintainable software and transitioning into high-impact infrastructure roles.
@@ -30,7 +30,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
   <br />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&animation=twinkling" width="100%"/>
 
 ## **🛠️ Technical Ecosystem** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
@@ -64,7 +64,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&animation=twinkling" width="100%"/>
 
 ## 📊 Analytics & Impact
 
@@ -84,7 +84,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&animation=twinkling" width="100%"/>
 
 ## 🛤️ Professional Development Path
 
@@ -102,7 +102,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 * **Keen Interest: AI/ML Engineering** - I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&animation=twinkling" width="100%"/>
 
 ## 🧠 Core Competencies
 * **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
@@ -110,7 +110,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 * **Structural Logic:** Maintaining rigid, high-quality coding standards.
 * **Collaboration & Mentorship:** Actively uplifting peers through open knowledge sharing.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&animation=twinkling" width="100%"/>
 
 ## 📫 Let's Connect
 
