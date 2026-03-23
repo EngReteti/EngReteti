@@ -1,25 +1,23 @@
 <svg width="60" height="30" viewBox="0 0 60 30" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Group wrapper to rotate */
     .wrapper {
       transform-origin: 50% 50%;
-      animation: rotate 4s linear infinite;
+      animation: rotate3d 6s linear infinite;
     }
 
-    /* Text styling */
     .code {
       font-family: monospace;
-      font-size: 20px;
+      font-weight: bold; /* bold text */
+      font-size: 22px;
       fill: #a855f7; /* purple */
     }
 
-    /* Rotation animation: subtle tilt back and forth */
-    @keyframes rotate {
-      0%   { transform: rotate(0deg); }
-      25%  { transform: rotate(10deg); }
-      50%  { transform: rotate(0deg); }
-      75%  { transform: rotate(-10deg); }
-      100% { transform: rotate(0deg); }
+    @keyframes rotate3d {
+      0%   { transform: scaleX(1) skewY(0deg); }
+      25%  { transform: scaleX(0.8) skewY(20deg); }
+      50%  { transform: scaleX(1) skewY(0deg); }
+      75%  { transform: scaleX(0.8) skewY(-20deg); }
+      100% { transform: scaleX(1) skewY(0deg); }
     }
   </style>
 
