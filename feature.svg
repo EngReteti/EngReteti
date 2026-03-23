@@ -10,8 +10,8 @@
         dur="3s" 
         repeatCount="indefinite" />
       
-      <path d="M14 12 L 8 20 L 14 28" />
-      <path d="M26 12 L 32 20 L 26 28" />
+      <path d="M14 9.5 L 6 20 L 14 30.5" />
+      <path d="M26 9.5 L 34 20 L 26 30.5" />
       
       <g>
         <animate 
