@@ -38,7 +38,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ---
 
-## 🛠️ Technical Ecosystem <img src="./rotating-backslash.gif" width="50" />
+## 🛠️ Technical Ecosystem <img src="./rotating-backslash.gif" width="80" />
 
 <div align="center">
 
