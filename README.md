@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________&duration=200" alt="Ultra Fast Top Line" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________&duration=600" alt="Fast Top Line" />
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Amason Lerionka**
 
@@ -129,5 +129,5 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
   <br />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________&duration=200" alt="Ultra Fast Bottom Line" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________&duration=600" alt="Fast Bottom Line" />
 </div>
