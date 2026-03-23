@@ -38,7 +38,8 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ---
 
-## 🛠️ Technical Ecosystem <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" height="35" align="center"> <span style="color:red; font-weight:bold;">&lt;\&gt;</span>
+## 🛠️ Technical Ecosystem <img src="./icon.svg" width="35" height="35" align="center">
+
 
 
 
