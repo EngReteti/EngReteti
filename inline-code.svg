@@ -1,34 +1,50 @@
-<svg width="60" height="30" viewBox="0 0 60 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="80" height="40" viewBox="0 0 80 40" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Bold red text */
+    /* Bold red text for < and > */
     .code {
       font-family: monospace;
       font-weight: bold;
-      font-size: 22px;
+      font-size: 28px;
       fill: red;
     }
 
-    /* Stroke appearance animation for the backslash */
+    /* Slash animation: stroke appears and disappears */
     .slash {
       stroke: red;
       stroke-width: 3;
       fill: none;
-      stroke-dasharray: 20;
-      stroke-dashoffset: 20;
+      stroke-dasharray: 15;
+      stroke-dashoffset: 15;
       animation: drawSlash 2s linear infinite;
     }
 
+    /* Rotate the whole group */
+    .rotate {
+      transform-origin: 50% 50%;
+      animation: rotateGroup 4s linear infinite;
+    }
+
     @keyframes drawSlash {
-      0% { stroke-dashoffset: 20; }
+      0% { stroke-dashoffset: 15; }
       50% { stroke-dashoffset: 0; }
-      100% { stroke-dashoffset: 20; }
+      100% { stroke-dashoffset: 15; }
+    }
+
+    @keyframes rotateGroup {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
     }
   </style>
 
-  <!-- Left < and Right > as text -->
-  <text x="20" y="20" class="code">&lt;</text>
-  <text x="40" y="20" class="code">&gt;</text>
+  <!-- Group containing <, /, > to rotate together -->
+  <g class="rotate">
+    <!-- Left < -->
+    <text x="20" y="30" class="code">&lt;</text>
 
-  <!-- Slash as path to animate stroke -->
-  <path class="slash" d="M27,10 L33,20" />
+    <!-- Right > -->
+    <text x="60" y="30" class="code">&gt;</text>
+
+    <!-- Animated slash as path -->
+    <path class="slash" d="M35,10 L45,30" />
+  </g>
 </svg>
