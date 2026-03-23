@@ -45,7 +45,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
       font-size: 12px;
       fill: #a855f7;
       opacity: 0.8;
-      animation: float 3s ease-in-out infinite;
+      animation: float 4s ease-in-out infinite;
     }
 
     @keyframes float {
@@ -56,7 +56,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
   </style>
 
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="code">
-    &lt;\&gt;
+    &lt;&#92;&gt;
   </text>
 </svg>
 
