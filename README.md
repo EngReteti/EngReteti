@@ -38,7 +38,8 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ---
 
-## 🛠️ Technical Ecosystem <img src="./icon.svg" width="38" height="38" align="center">
+## 🛠️ Technical Ecosystem <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF0000&width=100&lines=%3C%5C%3E;%3C++%3E;%3C%5C%3E" align="center">
+
 
 
 
