@@ -39,15 +39,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 ---
 
 <div align="center">
-  <br>
-  <h2>
-    🛠️ Technical Ecosystem 
-    <img src="./feature.svg" width="40" height="40" style="vertical-align: middle; margin-left: 10px;">
-  </h2>
-  <p align="center">
-    <i>Mastering core logic before scaling to the cloud.</i>
-  </p>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <h2>🛠️ Technical Ecosystem <img src="./feature.svg" width="38" height="38" style="vertical-align: middle;"></h2>
 </div>
 
 
