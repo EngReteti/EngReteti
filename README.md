@@ -38,7 +38,20 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ---
 
-## 🛠️ Technical Ecosystem <img src="./icon.svg" width="35" height="35" align="center">
+## 🛠️ Technical Ecosystem <svg width="30" height="30" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <g fill="none" stroke="#FF0000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 20 20" to="360 20 20" dur="5s" repeatCount="indefinite" />
+      <path d="M12 15 L 5 20 L 12 25" />
+      <path d="M28 15 L 35 20 L 28 25" />
+      <path d="M22 10 L 18 30">
+        <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="scale" additive="sum" values="1;0.1;1" keyTimes="0;0.5;1" dur="2s" repeatCount="indefinite" transform-origin="20 20" />
+      </path>
+    </g>
+  </g>
+</svg>
+
 
 
 
