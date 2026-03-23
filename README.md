@@ -37,12 +37,12 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 </div>
 
 ---
-
 <br>
 
 ## **🛠️ Technical Ecosystem** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 8px;">
 
 ---
+
 
 
 
