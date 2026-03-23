@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mastering+the+Logic+of+Code;Future+Cloud+Architect;Giving+back+to+the+community" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=60&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=header&animation=fadeIn&speed=20" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
@@ -126,4 +126,6 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
   <br />
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer&animation=fadeIn&speed=20" width="100%"/>
 </div>
