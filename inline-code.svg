@@ -1,21 +1,28 @@
-<svg width="32" height="16" viewBox="0 0 32 16" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="24" viewBox="0 0 48 24" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .code {
-      font-family: monospace;
-      font-size: 12px;
-      fill: #a855f7;
-      opacity: 0.8;
-      animation: float 4s ease-in-out infinite;
+    .wrapper {
+      transform-origin: 50% 50%;
+      animation: rotate 6s linear infinite;
     }
 
-    @keyframes float {
-      0%   { transform: translateY(0px); opacity: 0.6; }
-      50%  { transform: translateY(-1px); opacity: 1; }
-      100% { transform: translateY(0px); opacity: 0.6; }
+    .code {
+      font-family: monospace;
+      font-size: 16px;
+      fill: #a855f7;
+    }
+
+    @keyframes rotate {
+      0%   { transform: rotate(0deg); }
+      25%  { transform: rotate(10deg); }
+      50%  { transform: rotate(0deg); }
+      75%  { transform: rotate(-10deg); }
+      100% { transform: rotate(0deg); }
     }
   </style>
 
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="code">
-    &lt;&#92;&gt;
-  </text>
+  <g class="wrapper">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="code">
+      &lt;&#92;&gt;
+    </text>
+  </g>
 </svg>
