@@ -117,15 +117,10 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <br />
-  <img src="let-s-connect-logo-bubbles--1--2499007522.png" alt="Connect Visual" width="300" style="border-radius: 10px;" />
-  <br />
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Show%20me%20your%20flowcharts%20and%20conceal%20your%20tables%2C%20and%20I%20shall%20continue%20to%20be%20mystified.%20Show%20me%20your%20tables%2C%20and%20I%20won%27t%20usually%20need%20your%20flowcharts%3B%20they%27ll%20be%20obvious.&author=Fred%20Brooks" alt="Quote" />
-  <br />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=600&repeat=true" alt="Forwards Backwards Bottom" />
 </div>
