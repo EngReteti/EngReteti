@@ -38,27 +38,35 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <table border="0">
   <tr>
-    <td align="center" bgcolor="#0d1117" style="border-radius: 15px; padding: 25px;">
-      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" style="border-radius: 10px; margin-bottom: 25px;" />
-      <br />
+    <td align="center" bgcolor="#0d1117" style="border-radius: 15px; padding: 20px;" colspan="2">
+      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" style="border-radius: 10px;" />
+    </td>
+  </tr>
+  <tr>
+    <th bgcolor="#161b22" style="border-radius: 10px 0 0 0; padding: 10px;">🚀 Languages & Frameworks</th>
+    <th bgcolor="#161b22" style="border-radius: 0 10px 0 0; padding: 10px;">🧰 Tools & Infrastructure</th>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#0d1117" style="padding: 15px; border-radius: 0 0 0 10px;">
       <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
       <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
-      <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" /><br/><br/>
       <img src="https://img.shields.io/badge/HTML5-1e2327?style=flat-square&logo=html5&logoColor=E34F26" />
       <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
-      <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" /><br/><br/>
       <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
+      <img src="https://img.shields.io/badge/DSA-1e2327?style=flat-square&logo=algorithm&logoColor=FF9800" />
+    </td>
+    <td align="center" bgcolor="#0d1117" style="padding: 15px; border-radius: 0 0 10px 0;">
       <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
       <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
-      <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" /><br/><br/>
       <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
-      <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+      <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" /><br/><br/>
       <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans-ide&logoColor=78A700" />
       <img src="https://img.shields.io/badge/Console-1e2327?style=flat-square&logo=linux-terminal&logoColor=white" />
       <img src="https://img.shields.io/badge/Networking-1e2327?style=flat-square&logo=cisco&logoColor=0175C2" />
-      <img src="https://img.shields.io/badge/DSA-1e2327?style=flat-square&logo=algorithm&logoColor=FF9800" />
-      <br /><br />
     </td>
   </tr>
 </table>
