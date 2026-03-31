@@ -42,7 +42,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
-      <p align="center"><strong>🚀 Development & Frameworks</strong></p>
+      <p align="center"><strong>Dev</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
@@ -53,7 +53,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
         <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
-      <p align="center"><strong>🔧 Tools & Infrastructure</strong></p>
+      <p align="center"><strong>Tools</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
