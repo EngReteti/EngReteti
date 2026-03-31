@@ -38,10 +38,10 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <table border="0">
   <tr>
-    <td width="40%" align="center" bgcolor="#0d1117" style="border-radius: 15px 0 0 15px; padding: 20px; vertical-align: middle;">
+    <td width="45%" align="center" bgcolor="#0d1117" style="border-radius: 15px 0 0 15px; padding: 20px; vertical-align: middle;">
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
-    <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
+    <td width="55%" align="center" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
       <p align="center"><strong>Dev</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
@@ -128,4 +128,3 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=600&repeat=true" alt="Forwards Backwards Bottom" />
 </div>
-
