@@ -36,12 +36,12 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr>
-    <td width="45%" align="center">
+    <td width="45%" align="center" bgcolor="#0d1117" style="border-radius: 10px;">
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
-    <td width="55%" align="center">
+    <td width="55%" align="center" bgcolor="#0d1117" style="border-radius: 10px;">
       <br />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
