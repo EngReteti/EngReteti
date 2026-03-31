@@ -114,6 +114,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Let's Connect
+feel free to reach out 
 
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
