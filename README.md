@@ -128,3 +128,4 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=600&repeat=true" alt="Forwards Backwards Bottom" />
 </div>
+
