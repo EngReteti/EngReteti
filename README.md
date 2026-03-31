@@ -32,7 +32,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Tech Stack** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
+## **🛠️ Tech Stack**
 
 <div align="center">
 
@@ -95,10 +95,10 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 ## 🛤️ Roadmap
 
-* **Software Engineering** - Deepening expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications. 
-* **DevOps Engineering** - Bridging code and deployment by mastering **Docker, Kubernetes, CI/CD, and System Monitoring**.
-* **Cloud Architecture** - Designing high-availability, distributed systems using **AWS/GCP/Azure**.
-* **AI/ML** - Exploring the intersection of intelligence and software using **Python** and **FastAPI**.
+* **Software Engineering** - Java, Spring Boot, React, and PostgreSQL for high-performance apps.
+* **DevOps Engineering** - Bridging code and deployment with Docker, Kubernetes, and CI/CD.
+* **Cloud Architecture** - Designing high-availability distributed systems on AWS/GCP.
+* **AI/ML** - Exploring intelligent software using Python and FastAPI.
 
 <div align="center">
   <br />
@@ -117,7 +117,6 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Connect
-Feel free to reach out🤗
 
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-1e2327?style=flat-square&logo=gmail&logoColor=D14836" /></a>
