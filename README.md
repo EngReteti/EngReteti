@@ -16,13 +16,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 I am a Computer Science student at The Co-operative University of Kenya. My philosophy is simple: **master the core logic of programming before scaling to the cloud.** I am a dedicated problem solver focused on building efficient, maintainable software and transitioning into high-impact infrastructure roles.
 
-* 🔭 **Current Initiative:** Deepening expertise in Java, Spring Boot, and Python.
-* 🌱 **Deep Learning:** DSA, Database Management, and Distributed Systems.
+* 🔭 **Now:** Deepening expertise in Java, Spring Boot, and Python.
+* 🌱 **Learning:** DSA, Database Management, and Distributed Systems.
 * ☁️ **Vision:** Evolving from Software Engineering to DevOps and Cloud Architecture.
-* 🤝 **Philanthropy:** Passionate about giving back to the community by sharing tech skills.
+* 🤝 **Community:** Passionate about giving back by sharing technical skills.
 
 <div align="center">
   <br />
@@ -32,7 +32,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Technical Ecosystem** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
+## **🛠️ Tech Stack** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 📊 Analytics & Impact
+## 📊 Analytics
 
 <div align="center">
 
@@ -93,39 +93,37 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🛤️ Professional Development Path
+## 🛤️ Roadmap
 
-
-* **Current Focus: Software Engineering** - I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. 
-* **Next Upgrade: DevOps Engineering** - Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
-
-* **Future Goal: Cloud Architecture** - As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
+* **Software Engineering** - Deepening expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications. 
+* **DevOps Engineering** - Bridging code and deployment by mastering **Docker, Kubernetes, CI/CD, and System Monitoring**.
+* **Cloud Architecture** - Designing high-availability, distributed systems using **AWS/GCP/Azure**.
+* **AI/ML** - Exploring the intersection of intelligence and software using **Python** and **FastAPI**.
 
 <div align="center">
   <br />
-  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <img src="devOps-cloud-native.gif" alt="Roadmap Visual" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
-* **Keen Interest: AI/ML Engineering** - I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+
+## 🧠 Skills
+* **Problem Solving:** Decomposing complex technical challenges into logical parts.
+* **Architecture:** Evaluating architectural integrity before implementation.
+* **Standards:** Maintaining rigid, high-quality coding standards.
+* **Mentorship:** Actively uplifting peers through open knowledge sharing.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🧠 Core Competencies
-* **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
-* **Critical Thinking:** Evaluating architectural integrity before implementation.
-* **Structural Logic:** Maintaining rigid, high-quality coding standards.
-* **Collaboration & Mentorship:** Actively uplifting peers through open knowledge sharing.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
-## 📫 Let's Connect
+## 📫 Connect
+Feel free to reach out🤗
 
 <p align="left">
-<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-1e2327?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-1e2327?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
+<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-1e2327?style=flat-square&logo=whatsapp&logoColor=25D366" /></a>
+<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <div align="center">
