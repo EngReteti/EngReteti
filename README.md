@@ -16,7 +16,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 👨‍💻 About Me
+## 👨‍💻 Introduction
+### Professional Profile
 I am a Computer Science student at The Co-operative University of Kenya. My philosophy is simple: **master the core logic of programming before scaling to the cloud.** I am a dedicated problem solver focused on building efficient, maintainable software and transitioning into high-impact infrastructure roles.
 
 * 🔭 **Current Initiative:** Deepening expertise in Java, Spring Boot, and Python.
@@ -32,8 +33,8 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Technical Ecosystem** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
-
+## **🛠️ Technical Ecosystem**
+### Skills & Tools
 <div align="center">
 
 <table border="0">
@@ -42,7 +43,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
-      <p align="center"><strong>Dev</strong></p>
+      <p align="center"><strong>Development Stack</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
@@ -53,7 +54,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
         <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
-      <p align="center"><strong>Tools</strong></p>
+      <p align="center"><strong>Infrastructure & Tooling</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
@@ -73,7 +74,33 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
+## 🧠 Core Competencies
+### Engineering Mindset
+* **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
+* **Critical Thinking:** Evaluating architectural integrity before implementation.
+* **Structural Logic:** Maintaining rigid, high-quality coding standards.
+* **Collaboration & Mentorship:** Actively uplifting peers through open knowledge sharing.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+
+## 🛤️ Professional Development Path
+### Strategic Roadmap
+
+* **Software Engineering Foundation** - I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. 
+* **DevOps Evolution** - Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
+* **Cloud Architecture Vision** - As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
+* **AI/ML Exploration** - I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
+
+<div align="center">
+  <br />
+  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <br />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+
 ## 📊 Analytics & Impact
+### Contribution Metrics
 
 <div align="center">
 
@@ -93,33 +120,8 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🛤️ Professional Development Path
-
-
-* **Current Focus: Software Engineering** - I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. 
-* **Next Upgrade: DevOps Engineering** - Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
-
-* **Future Goal: Cloud Architecture** - As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
-
-<div align="center">
-  <br />
-  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
-  <br />
-</div>
-
-* **Keen Interest: AI/ML Engineering** - I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
-## 🧠 Core Competencies
-* **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
-* **Critical Thinking:** Evaluating architectural integrity before implementation.
-* **Structural Logic:** Maintaining rigid, high-quality coding standards.
-* **Collaboration & Mentorship:** Actively uplifting peers through open knowledge sharing.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
 ## 📫 Let's Connect
+### Contact Information
 
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
