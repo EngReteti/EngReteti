@@ -16,13 +16,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 I am a Computer Science student at The Co-operative University of Kenya. My philosophy is simple: **master the core logic of programming before scaling to the cloud.** I am a dedicated problem solver focused on building efficient, maintainable software and transitioning into high-impact infrastructure roles.
 
-* 🔭 **Now:** Deepening expertise in Java, Spring Boot, and Python.
-* 🌱 **Learning:** DSA, Database Management, and Distributed Systems.
+* 🔭 **Current Initiative:** Deepening expertise in Java, Spring Boot, and Python.
+* 🌱 **Deep Learning:** DSA, Database Management, and Distributed Systems.
 * ☁️ **Vision:** Evolving from Software Engineering to DevOps and Cloud Architecture.
-* 🤝 **Community:** Passionate about giving back by sharing technical skills.
+* 🤝 **Philanthropy:** Passionate about giving back to the community by sharing tech skills.
 
 <div align="center">
   <br />
@@ -32,17 +32,16 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Tech Stack </>** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndWp4Z3R4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1f9Yn0791006/giphy.gif" width="35" style="vertical-align: middle;">
-
+## **🛠️ Technical Ecosystem** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
 
 <table border="0">
   <tr>
-    <td width="45%" align="center" bgcolor="#0d1117" style="border-radius: 15px 0 0 15px; padding: 20px; vertical-align: middle;">
+    <td width="40%" align="center" bgcolor="#0d1117" style="border-radius: 15px 0 0 15px; padding: 20px; vertical-align: middle;">
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
-    <td width="55%" align="center" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
+    <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
       <p align="center"><strong>Dev</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
@@ -74,7 +73,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 📊 Analytics
+## 📊 Analytics & Impact
 
 <div align="center">
 
@@ -94,36 +93,39 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🛤️ Roadmap
+## 🛤️ Professional Development Path
 
-* **Software Engineering** - Java, Spring Boot, React, and PostgreSQL for high-performance apps.
-* **DevOps Engineering** - Bridging code and deployment with Docker, Kubernetes, and CI/CD.
-* **Cloud Architecture** - Designing high-availability distributed systems on AWS/GCP.
-* **AI/ML** - Exploring intelligent software using Python and FastAPI.
+
+* **Current Focus: Software Engineering** - I believe in building a rock-solid foundation. I am currently deepening my expertise in **Java, Spring Boot, React, and PostgreSQL** to develop high-performance, user-centric applications before moving to complex infrastructure. 
+* **Next Upgrade: DevOps Engineering** - Once my foundation is set, I will expand into DevOps to bridge code and deployment. I am eager to master **Docker, Kubernetes, CI/CD, and System Monitoring** to ensure my software is resilient and production-ready.
+
+* **Future Goal: Cloud Architecture** - As an aspiring Cloud Architect, I am passionate about scaling into the cloud. I plan to master **AWS/GCP/Azure** to design high-availability, distributed systems that can serve global demands.
 
 <div align="center">
   <br />
-  <img src="devOps-cloud-native.gif" alt="Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
-## 🧠 Skills
-* **Problem Solving:** Decomposing complex technical challenges into logical parts.
-* **Architecture:** Evaluating architectural integrity before implementation.
-* **Standards:** Maintaining rigid, high-quality coding standards.
-* **Mentorship:** Actively uplifting peers through open knowledge sharing.
+* **Keen Interest: AI/ML Engineering** - I am highly interested in the intersection of intelligence and software. I am exploring **Python** and **Machine Learning/Deep Learning** concepts, with a focus on deploying intelligent models using **FastAPI**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 📫 Connect
+## 🧠 Core Competencies
+* **Analytical Problem Solving:** Decomposing complex technical challenges into logical parts.
+* **Critical Thinking:** Evaluating architectural integrity before implementation.
+* **Structural Logic:** Maintaining rigid, high-quality coding standards.
+* **Collaboration & Mentorship:** Actively uplifting peers through open knowledge sharing.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+
+## 📫 Let's Connect
 
 <p align="left">
-<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-1e2327?style=flat-square&logo=gmail&logoColor=D14836" /></a>
-<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-1e2327?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
-<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-1e2327?style=flat-square&logo=whatsapp&logoColor=25D366" /></a>
-<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <div align="center">
