@@ -32,7 +32,7 @@ I am a Computer Science student at The Co-operative University of Kenya. My phil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Tech Stack**
+## **🛠️ Tech Stack </>**
 
 <div align="center">
 
