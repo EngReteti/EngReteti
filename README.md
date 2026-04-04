@@ -73,15 +73,14 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
         <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
-      <p align="center"><strong>Environment & VCS</strong></p>
+      <p align="center"><strong>DevOps & Environment</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitLab-1e2327?style=flat-square&logo=gitlab&logoColor=FC6D26" />
         <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
       </p>
-      <p align="center"><strong>Tools & Design</strong></p>
+      <p align="center"><strong>Development Tools</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
         <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
