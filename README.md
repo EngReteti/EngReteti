@@ -17,12 +17,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 👨‍💻 Profile
-Computer Science student at CUK. My philosophy: **master core logic before scaling to the cloud.** I build efficient, maintainable systems with a focus on high-impact infrastructure.
+Software Engineering student specializing in scalable backend architecture. My philosophy: **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
-* 🔭 **Currently:** Mastering Java, Spring Boot, and Python.
-* 🌱 **Learning:** DSA, Database Management, and Distributed Systems.
-* ☁️ **Vision:** Transitioning from Software Engineering to DevOps & Cloud Architecture.
-* 🤝 **Impact:** Dedicated to community mentorship and skill sharing.
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA implementation in Java**.
+* 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
+* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
 
 <div align="center">
   <br />
@@ -33,9 +33,9 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 🧠 Core Competencies
-* **Technical Analysis:** Decomposing complex challenges into logical solutions.
-* **Architectural Integrity:** Prioritizing structural quality and clean code.
-* **Mentorship:** Actively uplifting peers through open knowledge sharing.
+* **Technical Analysis:** Decomposing complex bottlenecks into logical, modular solutions.
+* **Architectural Integrity:** Prioritizing structural quality and clean, maintainable code.
+* **Mentorship:** Actively uplifting peers through structured knowledge transfer.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
@@ -49,20 +49,20 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
-      <p align="center"><strong>Core Development</strong></p>
+      <p align="center"><strong>Backend Engineering</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
-        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
         <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
       </p>
-      <p align="center"><strong>Database & Intelligence</strong></p>
+      <p align="center"><strong>Data & Intelligence</strong></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
-        <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
         <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
       </p>
       <p align="center"><strong>Frontend Architecture</strong></p>
       <p align="center">
@@ -73,7 +73,7 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
         <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
-      <p align="center"><strong>DevOps & Infrastructure</strong></p>
+      <p align="center"><strong>DevOps & Environment</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
@@ -83,8 +83,8 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
       <p align="center"><strong>Productivity & Design</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
-        <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
+        <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-1e2327?style=flat-square&logo=figma&logoColor=F24E1E" />
         <img src="https://img.shields.io/badge/Photoshop-1e2327?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
       </p>
@@ -97,10 +97,10 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 🛤️ Roadmap
-* **Phase 1: Software Engineering** – Deepening expertise in **Java, Spring Boot, and PostgreSQL** to build high-performance applications.
-* **Phase 2: DevOps Engineering** – Expanding into **Docker, Kubernetes, and CI/CD** to bridge code and production.
-* **Phase 3: Cloud Architecture** – Mastering **AWS/GCP/Azure** to design scalable, distributed systems.
-* **Keen Interest: AI/ML Engineering** – Exploring **Python** and **Deep Learning** for intelligent model deployment.
+* **Software Engineering:** Solidifying my foundation in **Java/Spring Boot**, **Microservices**, and **Clean Architecture** to build robust backend systems.
+* **DevOps:** I plan to learn **Docker**, **Kubernetes**, and **CI/CD Automation** to master the art of seamless software delivery and lifecycle management.
+* **Cloud Architecture:** I am planning to transition into designing scalable, resilient systems on **AWS/Azure**, focusing on **Serverless** and **Cloud-Native solutions**.
+* **Intelligent Full-Stack (AI & ML):** I have a keen interest in AI, so I'm learning to build "Intelligent Apps" by integrating **React** frontends with AI tools like **LangChain**, **Vector Databases**, and **Generative API** endpoints.
 
 <div align="center">
   <br />
@@ -130,7 +130,6 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Contact
-Feel free to contact me on👇
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
