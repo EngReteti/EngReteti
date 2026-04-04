@@ -19,7 +19,7 @@
 ## 👨‍💻 Profile
 Software Engineering student specializing in scalable backend architecture. My philosophy: **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
-* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA implementation in Java**.
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
 * ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
 * 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
@@ -97,10 +97,10 @@ Software Engineering student specializing in scalable backend architecture. My p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 🛤️ Roadmap
-* **Software Engineering:** Solidifying my foundation in **Java/Spring Boot**, **Microservices**, and **Clean Architecture** to build robust backend systems.
-* **DevOps:** I plan to learn **Docker**, **Kubernetes**, and **CI/CD Automation** to master the art of seamless software delivery and lifecycle management.
-* **Cloud Architecture:** I am planning to transition into designing scalable, resilient systems on **AWS/Azure**, focusing on **Serverless** and **Cloud-Native solutions**.
-* **Intelligent Full-Stack (AI & ML):** I have a keen interest in AI, so I'm learning to build "Intelligent Apps" by integrating **React** frontends with AI tools like **LangChain**, **Vector Databases**, and **Generative API** endpoints.
+* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
+* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
+* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
 <div align="center">
   <br />
