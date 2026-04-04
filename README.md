@@ -4,7 +4,7 @@
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Logic-First+Developer;Future+Cloud+Architect;Tech+Mentor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Logic-First+Developer;Aspiring+Cloud+Architect; Giving+Back+to+the+community" alt="Typing SVG" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
@@ -83,7 +83,7 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
 * **Phase 1: Software Engineering** – Deepening expertise in **Java, Spring Boot, and PostgreSQL** to build high-performance applications.
 * **Phase 2: DevOps Engineering** – Expanding into **Docker, Kubernetes, and CI/CD** to bridge code and production.
 * **Phase 3: Cloud Architecture** – Mastering **AWS/GCP/Azure** to design scalable, distributed systems.
-* **Interest: AI/ML Engineering** – Exploring **Python** and **Deep Learning** for intelligent model deployment.
+* **Keen Interest: AI/ML Engineering** – Exploring **Python** and **Deep Learning** for intelligent model deployment.
 
 <div align="center">
   <br />
@@ -113,6 +113,7 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Contact
+Feel free to contact me on👇
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
