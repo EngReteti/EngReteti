@@ -63,13 +63,15 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
       <p align="center"><strong>Tools</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
-        <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
+        <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+        <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
         <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
-        <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
-        <img src="https://img.shields.io/badge/DSA-1e2327?style=flat-square&logo=algorithm&logoColor=FF9800" />
+        <img src="https://img.shields.io/badge/Photoshop-1e2327?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
+        <img src="https://img.shields.io/badge/Figma-1e2327?style=flat-square&logo=figma&logoColor=F24E1E" />
       </p>
     </td>
   </tr>
