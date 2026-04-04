@@ -19,7 +19,7 @@
 ## 👨‍💻 Profile
 Software Engineering student specializing in scalable backend architecture. My philosophy: **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
-* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA implementation in Java**.
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
 * ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
 * 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
@@ -53,18 +53,20 @@ Software Engineering student specializing in scalable backend architecture. My p
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
+        <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
+        <br />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
-        <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
+        <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
+        <br />
         <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Bootstrap-1e2327?style=flat-square&logo=bootstrap&logoColor=7952B3" />
         <img src="https://img.shields.io/badge/HTML5-1e2327?style=flat-square&logo=html5&logoColor=E34F26" />
         <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
-        <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
-        <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
       <p align="center"><strong>Environment & Design</strong></p>
@@ -73,9 +75,11 @@ Software Engineering student specializing in scalable backend architecture. My p
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
+        <br />
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
         <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
+        <br />
         <img src="https://img.shields.io/badge/Figma-1e2327?style=flat-square&logo=figma&logoColor=F24E1E" />
         <img src="https://img.shields.io/badge/Photoshop-1e2327?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
       </p>
@@ -121,6 +125,7 @@ Software Engineering student specializing in scalable backend architecture. My p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Contact
+Feel free to reach me out on 👇
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
