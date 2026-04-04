@@ -49,31 +49,41 @@ Computer Science student at CUK. My philosophy: **master core logic before scali
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
-      <p align="center"><strong>Dev</strong></p>
+      <p align="center"><strong>Backend & Logic</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
         <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
+      </p>
+      <p align="center"><strong>AI & Data Science</strong></p>
+      <p align="center">
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
         <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <p align="center"><strong>Frontend</strong></p>
+      <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" />
         <img src="https://img.shields.io/badge/Bootstrap-1e2327?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+        <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
-      <p align="center"><strong>Tools</strong></p>
+      <p align="center"><strong>Workflow & Environment</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
-        <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
-        <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
+        <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
+      </p>
+      <p align="center"><strong>Data & Design</strong></p>
+      <p align="center">
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
-        <img src="https://img.shields.io/badge/Photoshop-1e2327?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
+        <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
         <img src="https://img.shields.io/badge/Figma-1e2327?style=flat-square&logo=figma&logoColor=F24E1E" />
+        <img src="https://img.shields.io/badge/Photoshop-1e2327?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
       </p>
     </td>
   </tr>
