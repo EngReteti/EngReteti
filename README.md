@@ -5,7 +5,7 @@
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
 <div style="padding: 20px 0;">
-  Have a quick look on this <a href="https://drive.google.com/file/d/1yyl-JWV4MYh2ZBqbFOUNW-gDKEfu2fMX/view?usp=sharing">resume</a> for more info.
+  Have a quick look on this <a href="https://drive.google.com/file/d/17CXOnSygoMo4keJC06Q3FJxLoPi-Sc1g/view?usp=sharing">resume</a> for more info.
 </div>
 
 <picture>
@@ -48,7 +48,7 @@ Software Engineering student specializing in scalable backend architecture. My p
 <table border="0">
   <tr>
     <td width="40%" align="center" bgcolor="#0d1117" style="border-radius: 15px 0 0 15px; padding: 20px; vertical-align: middle;">
-      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
+      <img src="https://user-images.githubusercontent.com/74038190/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
       <p align="center"><strong>Engineering Core</strong></p>
