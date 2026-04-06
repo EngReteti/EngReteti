@@ -1,17 +1,15 @@
 <div align="center">
 
-<a href="https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view?usp=sharing">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0056b3&center=true&vCenter=true&width=1000&lines=%F0%9F%93%84+Take+a+quick+look+on+my+CV+for+more+info...;__________________________________________________________________________" alt="CV Link Top" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="Forwards Backwards Top" />
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Logic-First+Developer;Aspiring+Cloud+Architect;Giving+Back+to+the+community" alt="Typing SVG" />
+### 📄 Take a quick look on [my CV](PASTE_YOUR_LINK_HERE) for more info.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -93,7 +91,7 @@ Software Engineering student specializing in scalable backend architecture. My p
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## TRACK ROADMAP
+## 🛤️ Roadmap
 * **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
 * **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
 * **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
@@ -136,7 +134,5 @@ Feel free to reach me out on 👇
 </p>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view?usp=sharing">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0056b3&center=true&vCenter=true&width=1000&lines=%F0%9F%93%84+Take+a+quick+look+on+my+CV+for+more+info...;__________________________________________________________________________" alt="CV Link Bottom" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Forwards Backwards Bottom" />
 </div>
