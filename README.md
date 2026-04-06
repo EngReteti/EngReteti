@@ -4,12 +4,9 @@
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
-<p align="center">
-📄 Have a quick look on this <a href="https://drive.google.com/file/d/1fe9NPM6rCD1QjZb3J_EmGphuQiH0Rdei/view?usp=sharing">resume</a> for more info.
-</p>
-
-<br />
-<br />
+<div style="padding: 20px 0;">
+  📄 Have a quick look on this <a href="https://drive.google.com/file/d/1fe9NPM6rCD1QjZb3J_EmGphuQiH0Rdei/view?usp=sharing">resume</a> for more info.
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
