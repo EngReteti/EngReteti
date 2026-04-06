@@ -5,7 +5,7 @@
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
 <div style="padding: 20px 0;">
-  📄 Have a quick look on this <a href="https://drive.google.com/file/d/17CXOnSygoMo4keJC06Q3FJxLoPi-Sc1g/view?usp=sharing">resume</a> for more info.
+  Have a quick look on this <a href="https://drive.google.com/file/d/17CXOnSygoMo4keJC06Q3FJxLoPi-Sc1g/view?usp=sharing">resume</a> for more info.
 </div>
 
 <picture>
@@ -41,7 +41,7 @@ Software Engineering student specializing in scalable backend architecture. My p
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Tech Stack**
+## **🛠️ Tech Stack**<img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
 
