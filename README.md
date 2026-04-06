@@ -127,13 +127,15 @@ Software Engineering student specializing in scalable backend architecture. My p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Contact
-Feel free to reach me out on <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="40" height="40" style="vertical-align: middle;">
+Feel free to reach me out on <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle; margin-bottom: 5px;">
+
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 
 <div align="center">
