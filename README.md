@@ -4,7 +4,7 @@
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
-### 📄 Take a quick look on [my CV](PASTE_YOUR_LINK_HERE) for more info.
+### 📄 Take a quick look on [Amason CV](https://drive.google.com/file/d/1fe9NPM6rCD1QjZb3J_EmGphuQiH0Rdei/view?usp=sharing) for more info.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
