@@ -127,7 +127,7 @@ Software Engineering student specializing in scalable backend architecture. My p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Contact
-Feel free to reach me out on <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle; margin-bottom: 5px;">
+Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle; margin-bottom: 5px;">
 
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
