@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="Forwards Backwards Top" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=600&repeat=true" alt="Forwards Backwards Top" />
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Logic-First+Developer;Aspiring+Cloud+Architect;Giving+Back+to+the+community" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Backend+Engineer;Distributed+Systems+Architect;Java+%26+Spring+Boot+Specialist;Future+Cloud+Expert" alt="Typing SVG" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
@@ -16,13 +16,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 👨‍💻 Profile
-Software Engineering student specializing in scalable backend architecture. My philosophy: **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+## 👨‍💻 Engineering Profile
+I specialize in building **high-performance backend systems** and **distributed architectures**. My philosophy: *Master the core logic before scaling to the cloud.* I bridge the gap between complex software engineering and resilient, production-ready infrastructure.
 
-* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
-* 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
-* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
-* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
+* 🚀 **Specialties:** Concurrency, Multithreading, and Algorithmic Optimization (DSA).
+* 🛠️ **Current:** Engineering robust Java (Spring Boot) and Python (FastAPI) applications.
+* ☁️ **Vision:** Designing scalable, fault-tolerant systems via DevOps & Cloud Architecture.
+* 🤝 **Impact:** Actively mentoring peers and contributing to open-source developer ecosystems.
 
 <div align="center">
   <br />
@@ -33,13 +33,13 @@ Software Engineering student specializing in scalable backend architecture. My p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 🧠 Core Competencies
-* **Technical Analysis:** Decomposing complex bottlenecks into logical, modular solutions.
-* **Architectural Integrity:** Prioritizing structural quality and clean, maintainable code.
-* **Mentorship:** Actively uplifting peers through structured knowledge transfer.
+* **Technical Analysis:** Decomposing complex architectural challenges into logical parts.
+* **Architectural Integrity:** Prioritizing structural quality, clean code, and maintainability.
+* **Agile Execution:** Utilizing mobile-first environments (Termux) and rigid Git workflows.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Tech Stack**
+## **🛠️ Tech Stack**<img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
 
@@ -49,39 +49,24 @@ Software Engineering student specializing in scalable backend architecture. My p
       <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="60%" align="left" bgcolor="#0d1117" style="border-radius: 0 15px 15px 0; padding: 20px;">
-      <p align="center"><strong>Engineering Core</strong></p>
+      <p align="center"><strong>Core Tech</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
-        <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
-        <br />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
-        <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
-        <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
-        <br />
+        <img src="https://img.shields.io/badge/FastAPI-1e2327?style=flat-square&logo=fastapi&logoColor=05998b" />
         <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Bootstrap-1e2327?style=flat-square&logo=bootstrap&logoColor=7952B3" />
-        <img src="https://img.shields.io/badge/HTML5-1e2327?style=flat-square&logo=html5&logoColor=E34F26" />
-        <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
-      <p align="center"><strong>Environment & Design</strong></p>
+      <p align="center"><strong>Infrastructure & Tools</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-1e2327?style=flat-square&logo=docker&logoColor=2496ED" />
         <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
-        <br />
-        <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
-        <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
-        <br />
-        <img src="https://img.shields.io/badge/Figma-1e2327?style=flat-square&logo=figma&logoColor=F24E1E" />
-        <img src="https://img.shields.io/badge/Photoshop-1e2327?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
+        <img src="https://img.shields.io/badge/DSA-1e2327?style=flat-square&logo=algorithm&logoColor=FF9800" />
       </p>
     </td>
   </tr>
@@ -92,10 +77,9 @@ Software Engineering student specializing in scalable backend architecture. My p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 🛤️ Roadmap
-* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
-* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+* **Target:** Backend Mastery & Distributed Systems Architecture.
+* **Next:** DevOps Integration (Kubernetes, CI/CD, and System Monitoring).
+* **Vision:** Designing Global Cloud Solutions and AI-driven Intelligent Systems.
 
 <div align="center">
   <br />
@@ -125,7 +109,6 @@ Software Engineering student specializing in scalable backend architecture. My p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Contact
-Feel free to reach me out on 👇
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -134,5 +117,5 @@ Feel free to reach me out on 👇
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Forwards Backwards Bottom" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=600&repeat=true" alt="Forwards Backwards Bottom" />
 </div>
