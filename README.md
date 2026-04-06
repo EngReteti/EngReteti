@@ -5,7 +5,7 @@
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
 <div style="padding: 20px 0;">
-  📄 Have a quick look on this <a href="https://drive.google.com/file/d/1yyl-JWV4MYh2ZBqbFOUNW-gDKEfu2fMX/view?usp=sharing">resume</a> for more info.
+  Have a quick look on this <a href="https://drive.google.com/file/d/1yyl-JWV4MYh2ZBqbFOUNW-gDKEfu2fMX/view?usp=sharing">resume</a> for more info.
 </div>
 
 <picture>
