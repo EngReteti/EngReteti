@@ -5,7 +5,7 @@
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">, I'm **Reteti Lerionka**
 
 <div style="padding: 20px 0;">
-  Have a quick look on this <a href="https://drive.google.com/file/d/1NMtDD18MuKIaZx2L5oepu1W9T1BZcm5k/view?usp=drivesdk">resume</a> for more info.
+  Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
 </div>
 
 <picture>
@@ -19,7 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 👨‍💻 Profile
-Software Engineering student specializing in scalable backend architecture. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+Software Engineering student specializing in scalable backend architecture. My philosophy: **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
