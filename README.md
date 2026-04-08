@@ -34,13 +34,6 @@ Software Engineering student specializing in scalable backend architecture. My p
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🧠 Core Competencies
-* **Technical Analysis:** Decomposing complex bottlenecks into logical, modular solutions.
-* **Architectural Integrity:** Prioritizing structural quality and clean, maintainable code.
-* **Mentorship:** Actively uplifting peers through structured knowledge transfer.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
 ## **🛠️ Tech Stack**<img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
