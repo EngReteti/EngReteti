@@ -20,35 +20,19 @@
 
 ## 🚀 Mastering core logic today to architect the scale of tomorrow.
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" style="vertical-align: top; border: none;">
-      <ul>
-        <li>🛤️ <b>Software Engineering:</b> Solidifying expertise in <b>Java/Spring Boot</b>, <b>Microservices</b>, and <b>MVC Architecture</b> to build high-performance systems.</li>
-        <li>🛤️ <b>DevOps:</b> I plan to master <b>Docker</b>, <b>Kubernetes</b>, and <b>CI/CD Pipelines</b> to bridge the gap between development and automated infrastructure.</li>
-        <li>🛤️ <b>Cloud Architecture:</b> I am planning to design scalable, distributed environments on <b>AWS/Azure</b>, focusing on <b>Cloud-Native</b> resilience and security.</li>
-        <li>🛤️ <b>AI & ML:</b> I have a keen interest in AI, so I'm learning to deploy <b>Machine Learning models</b> and <b>Intelligent APIs</b> into modern <b>Full-Stack</b> applications.</li>
-      </ul>
-    </td>
-    <td width="45%" style="vertical-align: top; border: none; padding-left: 20px;">
-      <div align="right">
-        <img src="giphy-2279301799.gif" width="280" style="border-radius: 10px;" />
-      </div>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Strengthening architectural logic via high-volume <b>DSA mastery in Java</b>.</li>
-        <li>🌱 <b>Learning:</b> Distributed Systems, <b>Advanced Database Management</b>, and <b>API Security</b>.</li>
-        <li>☁️ <b>Vision:</b> Bridging Software Engineering with <b>DevOps</b> and <b>Cloud Architecture</b>.</li>
-        <li>🤝 <b>Impact:</b> Committed to technical mentorship and community skill sharing.</li>
-      </ul>
-      <p align="left">
-        <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-        <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Profile
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
+* 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
+* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
+
+### 📫 Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle; margin-bottom: 5px;">
+<p align="left">
+<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <div align="center">
   <br />
