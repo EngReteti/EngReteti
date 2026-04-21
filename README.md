@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=Think%20Twice%2C%20Code%20Once.;__________________________________________________________________________" alt="Slogan Top" />
-
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
 
 <div style="padding: 20px 0;">
@@ -20,36 +18,33 @@
 
 ## Think Twice, Code Once.
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="65%" align="left" style="vertical-align: top;">
-      <p>🔭 <strong>Current Focus:</strong> Strengthening architectural logic via high-volume <strong>DSA mastery in Java</strong>.</p>
-      <p>🌱 <strong>Learning:</strong> Distributed Systems, <strong>Advanced Database Management</strong>, and <strong>API Security</strong>.</p>
-      <p>☁️ <strong>Vision:</strong> Bridging Software Engineering with <strong>DevOps</strong> and <strong>Cloud Architecture</strong>.</p>
-      <p>🤝 <strong>Impact:</strong> Committed to technical mentorship and community skill sharing.</p>
-      <p>📫 <strong>Contact:</strong> Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="25" height="25" style="vertical-align: middle;"></p>
-      <p>
+    <td width="65%" align="left" style="vertical-align: top; border: none;">
+      <p style="margin: 0 0 10px 0;">🔭 <strong>Current Focus:</strong> Strengthening architectural logic via high-volume <strong>DSA mastery in Java</strong>.</p>
+      <p style="margin: 0 0 10px 0;">🌱 <strong>Learning:</strong> Distributed Systems, <strong>Advanced Database Management</strong>, and <strong>API Security</strong>.</p>
+      <p style="margin: 0 0 10px 0;">☁️ <strong>Vision:</strong> Bridging Software Engineering with <strong>DevOps</strong> and <strong>Cloud Architecture</strong>.</p>
+      <p style="margin: 0 0 10px 0;">🤝 <strong>Impact:</strong> Committed to technical mentorship and community skill sharing.</p>
+      <p style="margin: 0 0 10px 0;">📫 <strong>Contact:</strong> Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="25" height="25" style="vertical-align: middle;"></p>
+      <p style="margin: 0;">
         <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
         <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
-    <td width="35%" align="right" style="vertical-align: middle;">
-      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
+    <td width="35%" align="right" style="vertical-align: middle; border: none;">
+      <img src="https://raw.githubusercontent.com/t-richards/github-profile-readme/master/assets/images/development.png" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-⚙️ **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-
-♾️ **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-
-🏗️ **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
-
-🤖 **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+* ⚙️ **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
+* ♾️ **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+* 🏗️ **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
+* 🤖 **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
 <div align="center">
   <br />
@@ -59,7 +54,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Tech Stack**<img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
+## 🛠️ **Tech Stack**<img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
 
@@ -120,7 +115,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Footer Line" />
-</div>
