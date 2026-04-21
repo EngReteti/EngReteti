@@ -4,8 +4,6 @@
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
 
-### 🚀 Mastering core logic today to architect the scale of tomorrow.
-
 <div style="padding: 20px 0;">
   Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
 </div>
@@ -20,18 +18,28 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
+## 🚀 Mastering core logic today to architect the scale of tomorrow.
+
 <table border="0">
   <tr>
-    <td width="25%" align="left" style="vertical-align: middle;">
-      <img src="giphy-2279301799.gif" width="100%" style="border-radius: 10px;" />
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 0 20px;">
-      <p>I am a Software Engineering student specializing in scalable backend architecture, driven by the philosophy of solidifying core fundamentals before cloud expansion. My journey involves:</p>
+    <td width="55%" style="vertical-align: top;">
       <ul>
-        <li><b>Software Engineering:</b> Solidifying expertise in <b>Java/Spring Boot</b> and <b>Microservices</b>.</li>
-        <li><b>Cloud & DevOps:</b> Mastering <b>Docker</b>, <b>Kubernetes</b>, and <b>AWS/Azure</b> for resilient infrastructure.</li>
-        <li><b>Core Focus:</b> Strengthening architectural logic via high-volume <b>DSA mastery</b>.</li>
-        <li><b>Innovation:</b> Integrating <b>Machine Learning</b> and <b>Intelligent APIs</b> into full-stack systems.</li>
+        <li>🛤️ <b>Software Engineering:</b> Solidifying expertise in <b>Java/Spring Boot</b>, <b>Microservices</b>, and <b>MVC Architecture</b> to build high-performance systems.</li>
+        <li>🛤️ <b>DevOps:</b> I plan to master <b>Docker</b>, <b>Kubernetes</b>, and <b>CI/CD Pipelines</b> to bridge the gap between development and automated infrastructure.</li>
+        <li>🛤️ <b>Cloud Architecture:</b> I am planning to design scalable, distributed environments on <b>AWS/Azure</b>, focusing on <b>Cloud-Native</b> resilience and security.</li>
+        <li>🛤️ <b>AI & ML:</b> I have a keen interest in AI, so I'm learning to deploy <b>Machine Learning models</b> and <b>Intelligent APIs</b> into modern <b>Full-Stack</b> applications.</li>
+      </ul>
+    </td>
+    <td width="45%" style="vertical-align: top; padding-left: 20px;">
+      <div align="center">
+        <img src="giphy-2279301799.gif" width="90%" style="border-radius: 10px;" />
+      </div>
+      <br />
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Strengthening architectural logic via high-volume <b>DSA mastery in Java</b>.</li>
+        <li>🌱 <b>Learning:</b> Distributed Systems, <b>Advanced Database Management</b>, and <b>API Security</b>.</li>
+        <li>☁️ <b>Vision:</b> Bridging Software Engineering with <b>DevOps</b> and <b>Cloud Architecture</b>.</li>
+        <li>🤝 <b>Impact:</b> Committed to technical mentorship and community skill sharing.</li>
       </ul>
       <p align="center">
         <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -40,11 +48,14 @@
         <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
     </td>
-    <td width="25%" align="right" style="vertical-align: middle;">
-      <img src="devOps-cloud-native.gif" width="100%" style="border-radius: 10px;" />
-    </td>
   </tr>
 </table>
+
+<div align="center">
+  <br />
+  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="95%" style="border-radius: 10px;" />
+  <br />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
