@@ -18,43 +18,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🚀 Mastering core logic today to architect the scale of tomorrow.
+## 👨‍💻 Profile
+Software Engineering student specializing in scalable backend architecture. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" style="vertical-align: top; border: none;">
-      <ul>
-        <li>🛤️ <b>Software Engineering:</b> Solidifying expertise in <b>Java/Spring Boot</b>, <b>Microservices</b>, and <b>MVC Architecture</b> to build high-performance systems.</li>
-        <li>🛤️ <b>DevOps:</b> I plan to master <b>Docker</b>, <b>Kubernetes</b>, and <b>CI/CD Pipelines</b> to bridge the gap between development and automated infrastructure.</li>
-        <li>🛤️ <b>Cloud Architecture:</b> I am planning to design scalable, distributed environments on <b>AWS/Azure</b>, focusing on <b>Cloud-Native</b> resilience and security.</li>
-        <li>🛤️ <b>AI & ML:</b> I have a keen interest in AI, so I'm learning to deploy <b>Machine Learning models</b> and <b>Intelligent APIs</b> into modern <b>Full-Stack</b> applications.</li>
-      </ul>
-      <hr style="border: 0.1px solid #30363d;" />
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Strengthening architectural logic via high-volume <b>DSA mastery in Java</b>.</li>
-        <li>🌱 <b>Learning:</b> Distributed Systems, <b>Advanced Database Management</b>, and <b>API Security</b>.</li>
-        <li>☁️ <b>Vision:</b> Bridging Software Engineering with <b>DevOps</b> and <b>Cloud Architecture</b>.</li>
-        <li>🤝 <b>Impact:</b> Committed to technical mentorship and community skill sharing.</li>
-      </ul>
-      <p><b>Feel free to reach me out</b> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="25" height="25" style="vertical-align: middle;"></p>
-      <p>
-        <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-        <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="35%" style="vertical-align: middle; border: none; padding-left: 10px;">
-      <div align="center">
-        <img src="giphy-2279301799.gif" width="100%" style="max-width: 300px; border-radius: 10px;" />
-      </div>
-    </td>
-  </tr>
-</table>
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
+* 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
+* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
 
 <div align="center">
   <br />
-  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
   <br />
 </div>
 
@@ -112,13 +86,50 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 📊 Statistics
+## 🛤️ Roadmap
+* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
+* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
+* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
+  <br />
+  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <br />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+
+## 📊 Statistics
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" /><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation&bg_color=1a1b27&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+
+## 📫 Contact
+Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle; margin-bottom: 5px;">
+
+<p align="left">
+<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Forwards Backwards Bottom" />
