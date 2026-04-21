@@ -20,39 +20,36 @@
 
 ## Think Twice, Code Once.
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" align="left" style="vertical-align: top; border: none;">
-      <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
-        <li>🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.</li>
-        <li>🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.</li>
-        <li>☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.</li>
-        <li>🤝 **Impact:** Committed to technical mentorship and community skill sharing.</li>
-        <li>📫 **Contact:** Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle;"></li>
-      </ul>
-      <p style="margin-top: 15px;">
+    <td width="65%" align="left" style="vertical-align: top;">
+      <p>🔭 <strong>Current Focus:</strong> Strengthening architectural logic via high-volume <strong>DSA mastery in Java</strong>.</p>
+      <p>🌱 <strong>Learning:</strong> Distributed Systems, <strong>Advanced Database Management</strong>, and <strong>API Security</strong>.</p>
+      <p>☁️ <strong>Vision:</strong> Bridging Software Engineering with <strong>DevOps</strong> and <strong>Cloud Architecture</strong>.</p>
+      <p>🤝 <strong>Impact:</strong> Committed to technical mentorship and community skill sharing.</p>
+      <p>📫 <strong>Contact:</strong> Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="25" height="25" style="vertical-align: middle;"></p>
+      <p>
         <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
         <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
-    <td width="40%" align="right" style="vertical-align: top; border: none;">
-      <img src="giphy-2279301799.gif" alt="Coding GIF" width="100%" style="border-radius: 10px; min-width: 300px;" />
+    <td width="35%" align="right" style="vertical-align: middle;">
+      <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Footer Line" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-* ⚙️ **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-* ♾️ **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-* 🏗️ **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
-* 🤖 **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+⚙️ **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
+
+♾️ **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+
+🏗️ **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
+
+🤖 **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
 <div align="center">
   <br />
