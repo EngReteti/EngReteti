@@ -18,25 +18,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
+## Think Twice, Code Once.
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="70%" align="left" style="vertical-align: top; border: none;">
-      <ul style="list-style-type: none; padding-left: 0;">
+    <td width="60%" align="left" style="vertical-align: top; border: none;">
+      <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
         <li>🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.</li>
         <li>🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.</li>
         <li>☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.</li>
         <li>🤝 **Impact:** Committed to technical mentorship and community skill sharing.</li>
         <li>📫 **Contact:** Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle;"></li>
       </ul>
-      <p>
+      <p style="margin-top: 15px;">
         <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
         <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
-    <td width="30%" align="right" style="vertical-align: middle; border: none;">
-      <img src="giphy-2279301799.gif" alt="Coding GIF" width="100%" style="border-radius: 10px;" />
+    <td width="40%" align="right" style="vertical-align: top; border: none;">
+      <img src="giphy-2279301799.gif" alt="Coding GIF" width="100%" style="border-radius: 10px; min-width: 300px;" />
     </td>
   </tr>
 </table>
