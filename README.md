@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## Think Twice, Code Once.
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32" style="vertical-align: middle;"> Clean Code, Clear Mind.
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -40,8 +40,6 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
 * ⚙️ **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
 * ♾️ **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
 * 🏗️ **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
@@ -55,7 +53,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🛠️ **Tech Stack** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
+## 🛠️ **Tech Stack** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle;">
 
 <div align="center">
 
