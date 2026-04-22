@@ -34,7 +34,7 @@
       </p>
     </td>
     <td width="35%" align="right" style="vertical-align: middle; border: none;">
-      <img src="https://raw.githubusercontent.com/t-richards/github-profile-readme/master/assets/images/development.png" width="100%" style="border-radius: 10px;" />
+      <img src="giphy-2279301799.gif" alt="Coding GIF" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 🛠️ **Tech Stack**<img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
+## 🛠️ **Tech Stack** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
 
