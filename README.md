@@ -42,10 +42,10 @@
   </tr>
 </table>
 
-* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture**.
-* **DevOps:** Mastering **Docker**, **Kubernetes**, and **CI/CD Pipelines** for automated infrastructure.
-* **Cloud Architecture:** Designing scalable, distributed environments on **AWS/Azure**.
-* **AI & ML:** Deploying **Machine Learning models** and **Intelligent APIs** into modern applications.
+* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
+* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
+* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
