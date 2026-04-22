@@ -20,9 +20,9 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32" style="vertical-align: middle;"> Clean Code, Clear Mind.
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="55%" align="left" style="vertical-align: top; border: none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="55%" align="left" style="vertical-align: top; border: none; background-color: transparent;">
       <p style="margin: 0 0 10px 0;">🔭 <strong>Current Focus:</strong> Strengthening architectural logic via high-volume <strong>DSA mastery in Java</strong>.</p>
       <p style="margin: 0 0 10px 0;">🌱 <strong>Learning:</strong> Distributed Systems, <strong>Advanced Database Management</strong>, and <strong>API Security</strong>.</p>
       <p style="margin: 0 0 10px 0;">☁️ <strong>Vision:</strong> Bridging Software Engineering with <strong>DevOps</strong> and <strong>Cloud Architecture</strong>.</p>
@@ -34,7 +34,7 @@
         <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
       </p>
     </td>
-    <td width="45%" align="right" style="vertical-align: middle; border: none;">
+    <td width="45%" align="right" style="vertical-align: middle; border: none; background-color: transparent;">
       <img src="giphy-2279301799.gif" alt="Coding GIF" width="100%" style="border-radius: 10px; min-width: 320px;" />
     </td>
   </tr>
