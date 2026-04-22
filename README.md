@@ -42,10 +42,10 @@
   </tr>
 </table>
 
-* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
-* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture**.
+* **DevOps:** Mastering **Docker**, **Kubernetes**, and **CI/CD Pipelines** for automated infrastructure.
+* **Cloud Architecture:** Designing scalable, distributed environments on **AWS/Azure**.
+* **AI & ML:** Deploying **Machine Learning models** and **Intelligent APIs** into modern applications.
 
 <div align="center">
   <br />
@@ -114,6 +114,12 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" style="display: inline-block; margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" style="display: inline-block;" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="AI Coding" width="100%" style="border-radius: 10px;" />
+  <br />
 </div>
 
 <div align="center">
