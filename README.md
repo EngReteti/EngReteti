@@ -18,7 +18,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32" style="vertical-align: middle;"> In the same way our elders studied stars and seasons, I study codes.
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="35" height="35" style="vertical-align: middle;"> <strong>In the same way our elders studied stars and seasons, I study codes.</strong>
+</h3>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none; background-color: transparent;">
   <tr style="border: none;">
