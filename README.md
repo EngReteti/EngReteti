@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=500&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="Forwards Backwards Top" />
+
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
 
 <div style="padding: 20px 0;">
@@ -30,7 +32,6 @@
         <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-        <a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="45%" align="right" style="vertical-align: middle; border: none;">
@@ -114,4 +115,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=500&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Forwards Backwards Bottom" />
+</div>
