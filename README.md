@@ -110,6 +110,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" style="display: inline-block;" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+
 <div align="center">
   <br />
   <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
