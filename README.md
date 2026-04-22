@@ -47,12 +47,6 @@
 * **Cloud Architecture:** Designing scalable, distributed environments on **AWS/Azure**.
 * **AI & ML:** Deploying **Machine Learning models** and **Intelligent APIs** into modern applications.
 
-<div align="center">
-  <br />
-  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
-  <br />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 🛠️ **Tech Stack** <img src="./feature.svg" width="48" height="48" style="vertical-align: middle;">
@@ -118,7 +112,7 @@
 
 <div align="center">
   <br />
-  <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="AI Coding" width="100%" style="border-radius: 10px;" />
+  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
   <br />
 </div>
 
