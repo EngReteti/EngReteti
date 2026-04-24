@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## Clean codes, clear minds <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" alt="🧑‍💻" width="35" height="35" style="vertical-align: middle;">
+# Clean codes, clear minds 🧑‍💻
 Software Engineering student specializing in scalable backend architecture. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
