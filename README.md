@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## 👨‍💻 Profile
+## In the same way our elders studied stars and seasons, I study codes </>🧑‍💻
 Software Engineering student specializing in scalable backend architecture. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
@@ -34,7 +34,7 @@ Software Engineering student specializing in scalable backend architecture. My p
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **🛠️ Tech Stack**<img src="./feature.svg" width="48" height="48" style="vertical-align: middle; margin-left: 10px;">
+## **🛠️ Tech Stack**
 
 <div align="center">
 
@@ -62,6 +62,8 @@ Software Engineering student specializing in scalable backend architecture. My p
         <img src="https://img.shields.io/badge/Bootstrap-1e2327?style=flat-square&logo=bootstrap&logoColor=7952B3" />
         <img src="https://img.shields.io/badge/HTML5-1e2327?style=flat-square&logo=html5&logoColor=E34F26" />
         <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
+        <br />
+        <img src="https://img.shields.io/badge/REST_API-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
       <p align="center"><strong>Environment & Design</strong></p>
@@ -105,12 +107,9 @@ Software Engineering student specializing in scalable backend architecture. My p
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" /><br/><br/>
+    <td width="100%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngReteti&theme=tokyonight-animation&bg_color=1a1b27&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -126,7 +125,6 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://github.com/EngReteti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 
