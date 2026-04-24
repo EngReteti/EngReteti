@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## In the same way our elders studied stars and seasons, I study codes <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=false&vCenter=true&width=150&lines=%3C%2F%3E%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="moving emoji" style="vertical-align: middle;" />
+## In the same way our elders studied stars and seasons, I study codes <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" alt="🧑‍💻" width="35" height="35" style="vertical-align: middle;">
 Software Engineering student specializing in scalable backend architecture. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
