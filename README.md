@@ -16,6 +16,8 @@
 
 <h1 align="center">Clean codes, clear minds 🧑‍💻</h1>
 
+</div>
+
 Backend Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 <br />
@@ -27,8 +29,8 @@ Backend Engineer crafting scalable logic and high-performance distributed system
 
 <br />
 
+<div align="center">
 <img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
