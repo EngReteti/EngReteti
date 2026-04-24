@@ -18,7 +18,7 @@
 
 </div>
 
-Backend Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+Software Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 <br />
 
