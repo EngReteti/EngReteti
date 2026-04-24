@@ -14,12 +14,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
+<h1 align="center">Clean codes, clear minds 🧑‍💻</h1>
+
+Expert Backend Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
-# Clean codes, clear minds 🧑‍💻
-Software Engineering student specializing in scalable backend architecture. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
