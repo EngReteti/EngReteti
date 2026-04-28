@@ -18,7 +18,6 @@
 
 </div>
 
-### **🛠️ Operational Profile**
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
 * 💬 **Ask me about:** Java, Spring Boot, Node.js, Python, REST API, JUnit5, PostgreSQL, MySQL, NumPy, Pandas, JavaScript, React, Bootstrap, HTML5, CSS3, Git, GitHub, Linux, Termux, VS Code, NetBeans, Postman, Figma, and Photoshop.
