@@ -18,6 +18,20 @@
 
 </div>
 
+### **🛠️ Operational Profile**
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
+* 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
+* 💬 **Ask me about:** Java, Spring Boot, Node.js, Python, REST API, JUnit5, PostgreSQL, MySQL, NumPy, Pandas, JavaScript, React, Bootstrap, HTML5, CSS3, Git, GitHub, Linux, Termux, VS Code, NetBeans, Postman, Figma, and Photoshop.
+* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
+* 📫 **Reach me out:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amason-reteti-b465a1361) | [WhatsApp](https://wa.me/254758791006) 🤝
+
+<div align="center">
+<br />
+<img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
+<br />
+</div>
+
 ### **🚀 Strategic Trajectory**
 * **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
 * **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
@@ -28,20 +42,6 @@
   <br />
   <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
   <br />
-</div>
-
-### **🛠️ Operational Profile**
-* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
-* 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
-* 💬 **Ask me about:** Java, Spring Boot, Node.js, Python, REST API, JUnit5, PostgreSQL, MySQL, NumPy, Pandas, JavaScript, React, Bootstrap, HTML5, CSS3, Git, GitHub, Linux, Termux, VS Code, NetBeans, Postman, Figma, and Photoshop.
-* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
-* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
-* 📫 **Reach me out:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amason-reteti-b465a1361) | [WhatsApp](https://wa.me/254758791006) 🤝
-
-<br />
-
-<div align="center">
-<img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
