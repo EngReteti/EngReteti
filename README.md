@@ -18,10 +18,11 @@
 
 </div>
 
+### **Strategic Trajectory**
 * **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
-* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+* **DevOps:** Mastering **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+* **Cloud Architecture:** Designing scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
+* **AI & ML:** Deploying **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
 <div align="center">
 <br />
@@ -29,12 +30,11 @@
 <br />
 </div>
 
-<br />
-
-* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
-* 💬 **Ask me about:** **Java**, **Spring Boot**, **Node.js**, **Python**, **REST API**, **JUnit5**, **PostgreSQL**, **MySQL**, **NumPy**, **Pandas**, **JavaScript**, **React**, **Bootstrap**, **HTML5**, **CSS3**, **Git**, **GitHub**, **Linux**, **Termux**, **VS Code**, **NetBeans**, **Postman**, **Figma**, and **Photoshop**.
-* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
-* 📫 **How to reach me:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amason-reteti-b465a1361) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254758791006) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="20" height="20" style="vertical-align: middle;">
+### **Operational Profile**
+* 🔭 **Current Focus** — Strengthening architectural logic via high-volume **DSA mastery in Java**.
+* 💬 **Ask Me About** — Java, Spring Boot, Node.js, Python, REST API, JUnit5, PostgreSQL, MySQL, NumPy, Pandas, JavaScript, React, Bootstrap, HTML5, CSS3, Git, GitHub, Linux, Termux, VS Code, NetBeans, Postman, Figma, and Photoshop.
+* ☁️ **Vision** — Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* 📫 **Reach Me** — [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amason-reteti-b465a1361) | [WhatsApp](https://wa.me/254758791006) 🤝
 
 <br />
 
