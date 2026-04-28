@@ -24,9 +24,9 @@
 * **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
 <div align="center">
-  <br />
-  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
-  <br />
+<br />
+<img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
+<br />
 </div>
 
 <br />
@@ -34,13 +34,9 @@
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 💬 **Ask me about:** **Java**, **Spring Boot**, **Node.js**, **Python**, **REST API**, **JUnit5**, **PostgreSQL**, **MySQL**, **NumPy**, **Pandas**, **JavaScript**, **React**, **Bootstrap**, **HTML5**, **CSS3**, **Git**, **GitHub**, **Linux**, **Termux**, **VS Code**, **NetBeans**, **Postman**, **Figma**, and **Photoshop**.
 * ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
-* 📫 **How to reach me:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" style="vertical-align: middle;"> LinkedIn</a> | <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="20" style="vertical-align: middle;"> WhatsApp</a> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="20" height="20" style="vertical-align: middle;">
+* 📫 **How to reach me:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amason-reteti-b465a1361) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254758791006) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="20" height="20" style="vertical-align: middle;">
 
 <br />
-
-<div align="center">
-<img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
