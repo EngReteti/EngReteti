@@ -23,12 +23,18 @@
 * **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
 * **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
+<div align="center">
+  <br />
+  <img src="devOps-cloud-native.gif" alt="Strategic Roadmap Visual" width="100%" style="border-radius: 10px;" />
+  <br />
+</div>
+
 <br />
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 💬 **Ask me about:** **Java**, **Spring Boot**, **Node.js**, **Python**, **REST API**, **JUnit5**, **PostgreSQL**, **MySQL**, **NumPy**, **Pandas**, **JavaScript**, **React**, **Bootstrap**, **HTML5**, **CSS3**, **Git**, **GitHub**, **Linux**, **Termux**, **VS Code**, **NetBeans**, **Postman**, **Figma**, and **Photoshop**.
 * ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
-* 📫 **How to reach me:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amason-reteti-b465a1361) | [WhatsApp](https://wa.me/254758791006)
+* 📫 **How to reach me:** [amasonlerionka@gmail.com](mailto:amasonlerionka@gmail.com) | <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" style="vertical-align: middle;"> LinkedIn</a> | <a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="20" style="vertical-align: middle;"> WhatsApp</a> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="20" height="20" style="vertical-align: middle;">
 
 <br />
 
@@ -106,15 +112,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
-## 📫 Contact
-Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle; margin-bottom: 5px;">
-
-<p align="left">
-<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Forwards Backwards Bottom" />
