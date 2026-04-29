@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMTAwMCAyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNSIgeT0iMi41IiBmaWxsPSIjMDA1NmIzIiByeD0iNSIvPjxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIyIiB5PSI5IiBmaWxsPSJ3aGl0ZSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTYwIiB0bz0iMTAwMCIgZHVyPSIwLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvcmVjdD48L3N2Zz4=" width="1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0056b3&height=30&section=header&text=%20&fontSize=90" width="100%"/>
+<div style="margin-top: -25px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1&color=ffffff&center=true&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________" />
+</div>
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
 
@@ -24,7 +27,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
-* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* ☁ {**Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
 * 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
 
 <br />
@@ -128,5 +131,10 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 </p>
 
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMTAwMCAyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNSIgeT0iMi41IiBmaWxsPSIjMDA1NmIzIiByeD0iNSIvPjxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIyIiB5PSI5IiBmaWxsPSJ3aGl0ZSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTYwIiB0bz0iMTAwMCIgZHVyPSIwLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvcmVjdD48L3N2Zz4=" width="1000" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0056b3&height=30&section=footer&text=%20&fontSize=90" width="100%"/>
+<div style="margin-top: -25px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1&color=ffffff&center=true&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________" />
+</div>
+
 </div>
