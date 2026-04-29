@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0056b3&height=10&section=header" width="100%"/>
-<div style="margin-top: -18px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1&color=ffffff&center=true&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________" />
-</div>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTAwMCA2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjYiIGZpbGw9IiMwMDU2YjMiLz48cmVjdCB5PSIyIiB3aWR0aD0iODAiIGhlaWdodD0iMiIgZmlsbD0id2hpdGUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii04MCIgdG89IjEwMDAiIGR1cj0iMC42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L3JlY3Q+PC9zdmc+" width="100%" />
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
 
@@ -132,9 +129,6 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0056b3&height=10&section=footer" width="100%"/>
-<div style="margin-top: -18px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1&color=ffffff&center=true&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________" />
-</div>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTAwMCA2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjYiIGZpbGw9IiMwMDU2YjMiLz48cmVjdCB5PSIyIiB3aWR0aD0iODAiIGhlaWdodD0iMiIgZmlsbD0id2hpdGUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii04MCIgdG89IjEwMDAiIGR1cj0iMC42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L3JlY3Q+PC9zdmc+" width="100%" />
 
 </div>
