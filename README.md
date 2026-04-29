@@ -28,7 +28,6 @@
 </div>
 
 ## Profile
-
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
 * ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
 * 💬 **Experienced in:** **Multi-threaded Java Engines**, **Distributed Systems Architecture**, **Secure RESTful APIs**, **Low-level Networking**, **Scalable Database Design**, **NLP-driven Spam Classification**, **IoT for Precision Agriculture**, **Mobile-First DevOps Workflows**, and **Technical Mentorship**.
