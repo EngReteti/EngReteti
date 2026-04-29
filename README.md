@@ -16,6 +16,8 @@
 
 <h1 align="center">Clean code, clear mind 🧑‍💻.</h1>
 
+</div>
+
 Software Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 <br />
@@ -25,15 +27,15 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 * **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
 * **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="Separator Image" />
+</div>
 
 ## Profile
 
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
-* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* ☁ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
 * 💬 **Experienced in:** **Multi-threaded Java Engines**, **Distributed Systems Architecture**, **Secure RESTful APIs**, **Low-level Networking**, **Scalable Database Design**, **NLP-driven Spam Classification**, **IoT for Precision Agriculture**, **Mobile-First DevOps Workflows**, and **Technical Mentorship**.
-
-</div>
 
 ---
 
