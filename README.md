@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="Forwards Backwards Top" />
+<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMTAwMCAyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNSIgeT0iMi41IiBmaWxsPSIjMDA1NmIzIiByeD0iNSIvPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjIiIHk9IjkiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjMiLz48cmVjdCB3aWR0aD0iNjAiIGhlaWdodD0iMiIgeT0iOSIgZmlsbD0id2hpdGUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii02MCIgdG89IjEwMDAiIGR1cj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L3JlY3Q+PC9zdmc+" width="1000" />
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
 
@@ -128,5 +128,5 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Forwards Backwards Bottom" />
+<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMTAwMCAyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNSIgeT0iMi41IiBmaWxsPSIjMDA1NmIzIiByeD0iNSIvPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjIiIHk9IjkiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjMiLz48cmVjdCB3aWR0aD0iNjAiIGhlaWdodD0iMiIgeT0iOSIgZmlsbD0id2hpdGUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii02MCIgdG89IjEwMDAiIGR1cj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L3JlY3Q+PC9zdmc+" width="1000" />
 </div>
