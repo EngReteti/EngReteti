@@ -18,10 +18,6 @@
 
 </div>
 
-Software Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
-
-<br />
-
 * **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
 * **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
 * **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
@@ -34,7 +30,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 ## Profile
 
 * 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
-* ☁ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
 * 💬 **Experienced in:** **Multi-threaded Java Engines**, **Distributed Systems Architecture**, **Secure RESTful APIs**, **Low-level Networking**, **Scalable Database Design**, **NLP-driven Spam Classification**, **IoT for Precision Agriculture**, **Mobile-First DevOps Workflows**, and **Technical Mentorship**.
 
 ---
