@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMTAwMCAxMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1IiB5PSIyLjUiIGZpbGw9biIjMDA1NmIzIiByeD0iMiIvPjxyZWN0IHdpZHRoPSIxNTAiIGhlaWdodD0iMiIgeT0iNCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0ic2tld1goLTQ1KSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTE1MCIgdG89IjExNTAiIGR1cj0iMC41cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L3JlY3Q+PC9zdmc+" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0056b3&height=10&section=header" width="100%"/>
+<div style="margin-top: -18px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1&color=ffffff&center=true&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________" />
+</div>
 
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
 
@@ -129,6 +132,9 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMTAwMCAxMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1IiB5PSIyLjUiIGZpbGw9biIjMDA1NmIzIiByeD0iMiIvPjxyZWN0IHdpZHRoPSIxNTAiIGhlaWdodD0iMiIgeT0iNCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0ic2tld1goLTQ1KSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTE1MCIgdG89IjExNTAiIGR1cj0iMC41cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L3JlY3Q+PC9zdmc+" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0056b3&height=10&section=footer" width="100%"/>
+<div style="margin-top: -18px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1&color=ffffff&center=true&vCenter=true&width=1000&lines=________________________________________________________________________________________________________________________________________________________________" />
+</div>
 
 </div>
