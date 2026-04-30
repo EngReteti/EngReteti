@@ -39,10 +39,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
-<table>
+<table border="0">
   <tr>
     <td><h2>Tech Stack</h2></td>
-    <td><img src="./feature.svg" width="35" height="35" style="vertical-align: middle;"></td>
+    <td style="vertical-align: middle;"><img src="./feature.svg" width="35" height="35" style="vertical-align: middle;"></td>
   </tr>
 </table>
 
