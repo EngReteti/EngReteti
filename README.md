@@ -35,7 +35,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
-## **Tech Stack**<img src="./feature.svg" width="30" height="30" style="vertical-align: middle; margin-left: 10px;">
+## **Tech Stack**<img src="./feature.svg" width="35" height="35" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
 
 ## 📫 Contact
-Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle; margin-bottom: 5px;">
+Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="30" height="30" style="vertical-align: middle; margin-bottom: 5px;">
 
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
