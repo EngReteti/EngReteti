@@ -107,8 +107,6 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-
 ## 📫 Contact
 Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="30" height="30" style="vertical-align: middle; margin-bottom: 5px;">
 
