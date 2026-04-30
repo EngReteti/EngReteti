@@ -36,7 +36,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <h2 style="margin: 0; border: none;">**Tech Stack**</h2>
+  <h2 style="margin: 0; border: none;">Tech Stack</h2>
   <img src="./feature.svg" width="35" height="35">
 </div>
 
