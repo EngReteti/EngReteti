@@ -1,3 +1,40 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=33CCFF&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;__________________________________________________________________________&duration=500" alt="Animated Line Top" />
+
+<h1 align="center">Hi 👋, I'm Lerionka</h1>
+
+<div style="padding: 20px 0;">
+  Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
+</picture>
+
+<h1 align="center">Clean code, clear mind 🧑‍💻.</h1>
+
+</div>
+
+Software Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, **master core logic before scaling to the cloud.** I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+
+<br />
+
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery in Java**.
+* 🌱 **Learning:** Distributed Systems, **Advanced Database Management**, and **API Security**.
+* ☁️ **Vision:** Bridging Software Engineering with **DevOps** and **Cloud Architecture**.
+* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
+
+<br />
+
+<div align="center">
+<img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
+
 <div style="display: flex; align-items: center;">
   <h2 style="margin: 0;">Tech Stack</h2>
   <img src="./feature.svg" width="35" height="35" style="margin-left: 10px;">
@@ -50,4 +87,38 @@
   </tr>
 </table>
 
+</div>
+
+* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
+* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
+* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
+
+## 📊 Statistics
+<div align="left">
+
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=EngReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 📫 Contact
+Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="30" height="30" style="vertical-align: middle; margin-bottom: 5px;">
+
+<p align="left">
+<a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/254758791006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=33CCFF&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;__________________________________________________________________________&duration=500" alt="Animated Line Bottom" />
 </div>
