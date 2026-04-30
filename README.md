@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=200" alt="Top Border" />
 
-<div align="center">
-  <h1 style="display: inline-block;">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35" style="vertical-align: middle;">, I'm Lerionka</h1>
+<div style="font-size: 32px; font-weight: bold; margin: 20px 0;">
+  Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35" style="vertical-align: middle;">, I'm Lerionka
 </div>
 
 <div style="padding: 15px 0;">
@@ -37,7 +37,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
-<h2 align="left">Tech Stack <img src="./feature.svg" width="30" height="30" style="vertical-align: middle;"></h2>
+## Tech Stack <img src="./feature.svg" width="30" height="30" style="vertical-align: middle;">
 
 <div align="center">
 
