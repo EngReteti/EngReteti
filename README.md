@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="Forwards Backwards Top" />
 
-# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Reteti Lerionka**
+# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40"> I'm **Lerionka**
 
 <div style="padding: 20px 0;">
   Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
