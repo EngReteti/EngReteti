@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=33CCFF&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;__________________________________________________________________________&duration=500" alt="Animated Line Top" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=200" alt="Forwards Backwards Top" />
 
-<h1 align="center">Hi 👋, I'm Lerionka</h1>
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="30" height="30">, I'm **Lerionka**</h1>
 
 <div style="padding: 20px 0;">
   Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
@@ -36,7 +36,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <h2 style="margin: 0; border: none;">Tech Stack</h2>
+  <h2 style="margin: 0; border: none;">**Tech Stack**</h2>
   <img src="./feature.svg" width="35" height="35">
 </div>
 
@@ -120,5 +120,5 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=33CCFF&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;__________________________________________________________________________&duration=500" alt="Animated Line Bottom" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________&duration=200" alt="Forwards Backwards Bottom" />
 </div>
