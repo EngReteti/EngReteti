@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=200" alt="Top Border" />
 
-<h1>Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="30" height="30" style="vertical-align: middle;">, I'm Lerionka</h1>
+<div align="center">
+  <h1 style="display: inline-block;">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35" style="vertical-align: middle;">, I'm Lerionka</h1>
+</div>
 
 <div style="padding: 15px 0;">
   Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
@@ -22,10 +24,10 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 <br />
 
-* **Current Focus:** Strengthening architectural logic via high-volume DSA mastery in Java.
-* **Learning:** Distributed Systems, Advanced Database Management, and API Security.
-* **Vision:** Bridging Software Engineering with DevOps and Cloud Architecture.
-* **Impact:** Committed to technical mentorship and community skill sharing.
+* 🔭 **Current Focus:** Strengthening architectural logic via high-volume DSA mastery in Java.
+* 🌱 **Learning:** Distributed Systems, Advanced Database Management, and API Security.
+* ☁️ **Vision:** Bridging Software Engineering with DevOps and Cloud Architecture.
+* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
 
 <br />
 
@@ -35,7 +37,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
-## Tech Stack <img src="./feature.svg" width="30" height="30" style="vertical-align: middle;">
+<h2 align="left">Tech Stack <img src="./feature.svg" width="30" height="30" style="vertical-align: middle;"></h2>
 
 <div align="center">
 
