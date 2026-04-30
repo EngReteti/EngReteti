@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="Forwards Backwards Top" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=33CCFF&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;__________________________________________________________________________&duration=500" alt="Animated Line Top" />
 
-# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="30" height="30">, I'm **Lerionka**
+<h1 align="center">Hi 👋, I'm Lerionka</h1>
 
 <div style="padding: 20px 0;">
   Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
@@ -33,9 +33,9 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 <img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
-## **Tech Stack**<img src="./feature.svg" width="35" height="35" style="vertical-align: middle; margin-left: 10px;">
+## **Tech Stack** <img src="./feature.svg" width="35" height="35" style="display: inline-block; vertical-align: middle;">
 
 <div align="center">
 
@@ -86,12 +86,12 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 </div>
 
-* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native** resilience and security.
-* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern **Full-Stack** applications.
+* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture**.
+* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines**.
+* **Cloud Architecture:** Designing scalable environments on **AWS/Azure**, focusing on resilience.
+* **AI & ML:** Learning to deploy **Machine Learning models** into modern applications.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
 ## 📊 Statistics
 <div align="left">
@@ -117,5 +117,5 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________" alt="Forwards Backwards Bottom" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=33CCFF&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;__________________________________________________________________________&duration=500" alt="Animated Line Bottom" />
 </div>
