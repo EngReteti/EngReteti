@@ -111,4 +111,3 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 </p>
 
 <div align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
