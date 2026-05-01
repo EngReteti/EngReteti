@@ -88,10 +88,10 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 </div>
 
-* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-* **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS/Azure**, focusing on **Cloud-Native resilience** and **security**.
-* **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern Full-Stack applications.
+* **Software Engineering:** Focusing on **Java/Spring Boot**, **Microservices**, and **MVC Architecture**.
+* **DevOps:** Mastering **Docker**, **Kubernetes**, and **CI/CD Pipelines**.
+* **Cloud Architecture:** Designing environments on **AWS/Azure** with a focus on **Cloud-Native** resilience.
+* **AI & ML:** Deploying **Machine Learning models** and **Intelligent APIs** in Full-Stack apps.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
