@@ -20,7 +20,7 @@
 
 </div>
 
-Software Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, master core logic before scaling to the cloud. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery** in **Java**.
 * 🌱 **Learning:** **Distributed Systems**, **Advanced Database Management**, and **API Security**.
