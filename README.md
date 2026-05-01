@@ -99,8 +99,8 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
 </div>
 
-## 📫 Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
-Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="30" height="30" style="vertical-align: middle;">
+## 📫 Contact
+Feel free to reach me out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 on
 
