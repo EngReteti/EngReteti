@@ -111,5 +111,4 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;__________________________________________________________________________&duration=200" alt="Bottom Border" />
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
