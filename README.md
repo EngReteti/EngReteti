@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <h1 style="white-space: nowrap;">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35" style="vertical-align: middle;">, I'm Lerionka</h1>
+  <h1 style="white-space: nowrap;">        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</h1>
 </div>
 
 <div style="padding: 15px 0;">
