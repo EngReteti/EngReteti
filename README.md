@@ -16,20 +16,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Dream it, code it 🧑‍💻</>
+# Dream it, code it 🧑‍💻
 
 </div>
 
-Software Engineer crafting scalable logic and high-performance distributed systems. My philosophy is, master core logic before scaling to the cloud. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+Software Engineer crafting **scalable logic** and **high-performance distributed systems**. Master of **core logic** and **efficient infrastructure** with a focus on **reliability**.
 
-<br />
-
-* 🔭 **Current Focus:** Strengthening **architectural logic** via high-volume **DSA mastery** in **Java**.
-* 🌱 **Learning:** **Distributed Systems**, **Advanced Database Management**, and **API Security**.
+* 🔭 **Current Focus:** Architectural logic and **DSA** mastery in **Java**.
+* 🌱 **Learning:** **Distributed Systems**, **Advanced Databases**, and **API Security**.
 * ☁️ **Vision:** Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
-* 🤝 **Impact:** Committed to **technical mentorship** and **community skill sharing**.
-
-<br />
+* 🤝 **Impact:** Dedicated to **technical mentorship** and **skill sharing**.
 
 <div align="center">
 <img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
@@ -88,10 +84,10 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 </div>
 
-* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
-* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
-* **Cloud Architecture:** I am planning to design **scalable, distributed environments** on **AWS/Azure**, focusing on **Cloud-Native resilience** and **security**.
-* **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern Full-Stack applications.
+* **Software Engineering:** **Java/Spring Boot**, **Microservices**, and **MVC Architecture**.
+* **DevOps:** **Docker**, **Kubernetes**, and **CI/CD Pipelines**.
+* **Cloud Architecture:** **Scalable distributed environments** on **AWS/Azure**.
+* **AI & ML:** Deploying **Machine Learning models** and **Intelligent APIs**.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -107,6 +103,5 @@ Feel free to reach me out <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 <p align="left">
 <a href="mailto:amasonlerionka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/254758791006"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
+<a href="https://wa.me/254758791006"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
