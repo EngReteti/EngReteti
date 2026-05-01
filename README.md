@@ -6,7 +6,7 @@
   <h1 style="white-space: nowrap;">        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</h1>
 </div>
 
-<div style="padding: 5px 0;">
+<div style="padding: 15px 0;">
   Have a quick look on this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
 </div>
 
@@ -33,7 +33,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;
+## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;
 
 <div align="center">
 
