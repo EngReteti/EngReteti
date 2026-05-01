@@ -93,7 +93,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 * **Cloud Architecture:** I am planning to design **scalable, distributed environments** on **AWS/Azure**, focusing on **Cloud-Native resilience** and **security**.
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern Full-Stack applications.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;Statistics
 <div align="left">
