@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1&color=0056b3&center=true&vCenter=true&width=1000&lines=__________________________________________________________________________;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&duration=200" alt="Top Border" />
 
 <div align="center">
-  <h1 style="display: inline-block;">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35" style="vertical-align: middle;">, I'm Lerionka</h1>
+  <h1 style="white-space: nowrap;">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35" style="vertical-align: middle;">, I'm Lerionka</h1>
 </div>
 
 <div style="padding: 15px 0;">
@@ -24,10 +24,10 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 <br />
 
-* 🔭 **Current Focus:** Strengthening architectural logic via high-volume DSA mastery in Java.
-* 🌱 **Learning:** Distributed Systems, Advanced Database Management, and API Security.
-* ☁️ **Vision:** Bridging Software Engineering with DevOps and Cloud Architecture.
-* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
+* 🔭 **Current Focus:** Strengthening **architectural logic** via high-volume **DSA mastery** in **Java**.
+* 🌱 **Learning:** **Distributed Systems**, **Advanced Database Management**, and **API Security**.
+* ☁️ **Vision:** Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
+* 🤝 **Impact:** Committed to **technical mentorship** and **community skill sharing**.
 
 <br />
 
@@ -88,10 +88,10 @@ Software Engineer crafting scalable logic and high-performance distributed syste
 
 </div>
 
-* **Software Engineering:** Solidifying expertise in Java/Spring Boot, Microservices, and MVC Architecture to build high-performance systems.
-* **DevOps:** I plan to master Docker, Kubernetes, and CI/CD Pipelines to bridge the gap between development and automated infrastructure.
-* **Cloud Architecture:** I am planning to design scalable, distributed environments on AWS/Azure, focusing on Cloud-Native resilience and security.
-* **AI & ML:** I have a keen interest in AI, so I'm learning to deploy Machine Learning models and Intelligent APIs into modern Full-Stack applications.
+* **Software Engineering:** Solidifying expertise in **Java/Spring Boot**, **Microservices**, and **MVC Architecture** to build high-performance systems.
+* **DevOps:** I plan to master **Docker**, **Kubernetes**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
+* **Cloud Architecture:** I am planning to design **scalable, distributed environments** on **AWS/Azure**, focusing on **Cloud-Native resilience** and **security**.
+* **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into modern Full-Stack applications.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,33CCFF,FF33CC,FFFF33&height=2&section=footer" width="100%"/>
 
