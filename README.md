@@ -16,7 +16,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Talk is cheap, show us your code🧑‍💻
+# Talk is cheap, show us your code 🧑‍💻
 
 </div>
 
