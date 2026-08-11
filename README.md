@@ -50,6 +50,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
         <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/Express-1e2327?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
         <img src="https://img.shields.io/badge/REST_API-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
