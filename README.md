@@ -53,6 +53,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
         <img src="https://img.shields.io/badge/Express-1e2327?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
         <img src="https://img.shields.io/badge/REST_API-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/JSON-1e2327?style=flat-square&logo=json&logoColor=white" />
         <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
         <br />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
