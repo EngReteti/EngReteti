@@ -52,6 +52,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
         <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
         <img src="https://img.shields.io/badge/Express-1e2327?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/VB.NET-1e2327?style=flat-square&logo=dotnet&logoColor=512BD4" />
         <img src="https://img.shields.io/badge/REST_API-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/JSON-1e2327?style=flat-square&logo=json&logoColor=white" />
         <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
@@ -73,6 +74,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/Shell_Script-1e2327?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
         <br />
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
