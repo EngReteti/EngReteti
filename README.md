@@ -60,6 +60,7 @@ Software Engineer crafting scalable logic and high-performance distributed syste
         <br />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
+        <img src="https://img.shields.io/badge/SQL_Server-1e2327?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
         <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
         <br />
@@ -76,6 +77,9 @@ Software Engineer crafting scalable logic and high-performance distributed syste
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Vercel-1e2327?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-1e2327?style=flat-square&logo=render&logoColor=46E3B7" />
         <br />
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
         <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
