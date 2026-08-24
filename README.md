@@ -16,7 +16,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Mindset at 1000mph.
+# Happy coding 
 
 </div>
 
