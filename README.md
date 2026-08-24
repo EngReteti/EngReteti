@@ -16,11 +16,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngReteti/EngReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Happy coding 
+# Mindset at 1000mph.
 
 </div>
 
-Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+A Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery** in **Java**.
