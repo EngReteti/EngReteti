@@ -20,7 +20,7 @@
 
 </div>
 
-A Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
+A Full-Stack Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 
 * 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery** in **Java**.
