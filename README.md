@@ -23,9 +23,14 @@
 A Full-Stack Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 
-* 🔭 **Current Focus:** Strengthening architectural logic via high-volume **DSA mastery** in **Java**.
-* 🌱 **Learning:** **Distributed Systems**, **Advanced Database Management**, and **API Security**.
-* ☁️ **Vision:** Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
+* 🔭 I'm currently working on **DSA Java mastery**, **MongoDB**, **Redis**, **Dart**, **Django**, **GraphQL**, **NextJs**, **NestJS** and **Typescript**.
+
+🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
+
+☁️ Vision: Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
+
+💬 Ask me about **ExpressJS**, **React**, **React Native/Expo**, **Spring Boot**, **NodeJS**,  **Rest API**, **Payment Integration**
+
 * 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
 
 <div align="center">
