@@ -31,7 +31,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
 
 💬 Ask me about **ExpressJS**, **React**, **React Native/Expo**, **Spring Boot**, **NodeJS**,  **Rest API**, **Payment Integration**
 
-* 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
+🤝 **Impact:** Committed to technical mentorship and community skill sharing.
 
 <div align="center">
 <img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
