@@ -29,7 +29,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
 
 ☁️ Vision: Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
 
-💬 Ask me about **ExpressJS**, NodeJS**, **React**, **React Native/Expo**, **Spring Boot**, **Rest API**, **Payment Integration**
+💬 Ask me about **ExpressJS**, **NodeJS**, **React**, **React Native/Expo**, **Spring Boot**, **Rest API**, **Payment Integration**
 
 🤝 **Impact:** Committed to technical mentorship and community skill sharing.
 
