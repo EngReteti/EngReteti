@@ -7,7 +7,7 @@
 </div>
 
 <div style="padding: 15px 0;">
-  Have a quick look at this [resume](https://github.com/EngReteti/EngReteti/blob/main/Amason_Resume.docx) for more info.
+  <h4>Have a quick look at this <a href="https://github.com/EngReteti/EngReteti/blob/main/Amason_Resume.docx" target="_blank">resume</a> for more info.</h4>
   
 </div>
 
