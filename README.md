@@ -25,7 +25,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
 
 🔭 I'm currently working on **MongoDB**, **Redis**, **Dart**, **Django**, **GraphQL**, **NextJs**, **NestJS** and **Typescript**.
 
-🌱 I’m currently learning **Advanced database management**, **Flutter**, **Microservices for Scalable Applications**.
+🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
 ☁️ Vision: Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
 
