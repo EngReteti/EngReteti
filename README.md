@@ -7,7 +7,7 @@
 </div>
 
 <div style="padding: 15px 0;">
-  Have a quick look at this <a href="https://drive.google.com/file/d/1_LLxTc5izSRPbkGNDYbP_ALl_RJoDMtp/view?usp=drivesdk">resume</a> for more info.
+  Have a quick look at this [resume](https://github.com/EngReteti/EngReteti/blob/main/Amason_Resume.docx) for more info.
 </div>
 
 <picture>
