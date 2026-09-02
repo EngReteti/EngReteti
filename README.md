@@ -28,7 +28,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
-☁️ My Vision vision is Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
+☁️ My Vision is Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
 
 💬 Ask me about **SQL**, **ExpressJS**, **NodeJS**, **React**, **React Native/Expo**, **Spring Boot**, **Apache Maven**, **Hibernate**, **Rest API**, **Payment Gateways**
 
