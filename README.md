@@ -24,7 +24,7 @@
 A Full-Stack Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 
-🔭 I'm currently working on **MongoDB**, **Prisma**, **Redis**, **Flutter in Dart**, **Django**, **GraphQL**, **NextJs**, **NestJS** and **Typescript**.
+🔭 I'm currently working on **MongoDB**, **OracleDB**, **Prisma**, **Redis**, **Flutter in Dart**, **Django**, **GraphQL**, **NextJs**, **NestJS** and **Typescript**.
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
