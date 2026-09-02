@@ -64,7 +64,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
         <br />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/MySQL-1e2327?style=flat-square&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/SQL_Server-1e2327?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-1e2327?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
         <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
         <br />
@@ -122,3 +122,4 @@ on
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/254758791006"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
