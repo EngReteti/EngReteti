@@ -24,7 +24,7 @@
 A Full-Stack Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 
-🔭 I'm currently working on **MongoDB**, **OracleDB**, **Prisma**, **Flutter in Dart**, **PWA**, **GraphQL**, **Django**, **NextJs**, **VueJS**, **Angular**, **NestJS**, **Supabase** and **Typescript**.
+🔭 I'm currently working on **MongoDB**, **OracleDB**, **Prisma**, **Flutter in Dart**, **PWA**, **GraphQL**, **Django**, **NextJs**, **VueJS**, **Angular**, **NestJS** and **Typescript**.
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
@@ -63,7 +63,6 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
         <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
         <br />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
-        <img src="https://img.shields.io/badge/Supabase-1e2327?style=flat-square&logo=supabase&logoColor=3FCF8E" />
         <img src="https://img.shields.io/badge/SQL_Server-1e2327?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
         <img src="https://img.shields.io/badge/Redis-1e2327?style=flat-square&logo=redis&logoColor=DC382D" />
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
@@ -85,6 +84,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
         <br />
         <img src="https://img.shields.io/badge/Vercel-1e2327?style=flat-square&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Render-1e2327?style=flat-square&logo=render&logoColor=46E3B7" />
+        <img src="https://img.shields.io/badge/Supabase-1e2327?style=flat-square&logo=supabase&logoColor=3FCF8E" />
         <br />
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
         <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
@@ -123,4 +123,3 @@ on
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/254758791006"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
