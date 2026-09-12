@@ -24,13 +24,13 @@
 A Full-Stack Software Engineer crafting scalable logic and high-performance distributed systems. I build efficient, maintainable infrastructure with a focus on high-impact reliability.
 
 
-🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **GraphQL**, **Django**, **NextJs**, **VueJS**, **Angular**, **NestJS** and **Typescript**.
+🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **GraphQL**, **Django**, **NextJs**, **VueJS**, **NestJS** and **Typescript**.
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
 ☁️ My Vision is Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
 
-💬 Ask me about **SQL**, **NoSQL**, **ExpressJS**, **NodeJS**, **React**, **React Native Expo**, **Spring Boot**, **Apache Maven**, **Hibernate**, **Rest API**, **UI & UX**, **Cloudinary API**, **Deployment**, **Payment Gateways**
+💬 Ask me about **SQL**, **NoSQL**, **ExpressJS**, **Angular**, **React**, **React Native Expo**, **Spring Boot**, **Apache Maven**, **Hibernate**, **Rest API**, **UI & UX**, **Cloudinary API**, **Deployment**, **Payment Gateways**
 
 <div align="center">
 <img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
