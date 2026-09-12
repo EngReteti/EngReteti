@@ -32,10 +32,6 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
 
 💬 Ask me about **SQL**, **NoSQL**, **ExpressJS**, **Angular**, **React**, **React Native Expo**, **Spring Boot**, **Apache Maven**, **Hibernate**, **Rest API**, **UI & UX**, **Cloudinary API**, **Deployment**, **Payment Gateways**
 
-<div align="center">
-<img src="giphy-2279301799.gif" alt="Coding GIF" width="70%" style="border-radius: 10px;" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
