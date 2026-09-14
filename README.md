@@ -118,11 +118,5 @@ on
 <p align="left">
 <a href="mailto:lerionkareteti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> or
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[
-
-![committers.top rank](https://user-badge.committers.top/kenya/EngReteti.svg)
-
-](https://user-badge.committers.top/kenya/EngReteti)
-](https://user-badge.committers.top/kenya/EngReteti)
 <a href="https://wa.me/254758791006"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
